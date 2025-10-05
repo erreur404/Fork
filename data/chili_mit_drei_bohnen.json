@@ -1,0 +1,104 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Chili mit drei Bohnen",
+  "source": "Gemini",
+  "steps": [
+    {
+      "quantity": 1,
+      "unit": "groß",
+      "ingredient": "Zwiebel",
+      "notes": "gehackt. In einem großen Topf mit etwas Wasser andünsten, bis sie weich ist (ca. 5-7 Minuten)."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Paprika (Farbe nach Wahl)",
+      "notes": "gewürfelt. Zur Zwiebel geben und mitdünsten."
+    },
+    {
+      "quantity": 3,
+      "unit": "Zehen",
+      "ingredient": "Knoblauch",
+      "notes": "gehackt. Hinzufügen und eine weitere Minute kochen, bis er duftet."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Chilipulver",
+      "notes": "Mit Kreuzkümmel, geräuchertem Paprika und Oregano hinzufügen und 30 Sekunden lang vermischen."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Kreuzkümmel (gemahlen)",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Geräucherter Paprika",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Getrockneter Oregano",
+      "notes": null
+    },
+    {
+      "quantity": 800,
+      "unit": "g",
+      "ingredient": "Gehackte Tomaten (Dose)",
+      "notes": "Mit Tomatenmark, Gemüsebrühe und allen Bohnen hinzufügen."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Tomatenmark",
+      "notes": null
+    },
+    {
+      "quantity": 500,
+      "unit": "ml",
+      "ingredient": "Gemüsebrühe",
+      "notes": null
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Gekochte Kidneybohnen",
+      "notes": "Abgetropft und abgespült."
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Gekochte schwarze Bohnen",
+      "notes": "Abgetropft und abgespült."
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Gekochte Pintobohnen oder Cannellinibohnen",
+      "notes": "Abgetropft und abgespült."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Zum Kochen bringen, dann die Hitze reduzieren, abdecken und mindestens 30 Minuten köcheln lassen, damit sich die Aromen entfalten (je länger, desto besser)."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Mit schwarzem Pfeffer abschmecken."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Tipp zum Einfrieren: Das Chili vollständig abkühlen lassen und in luftdichten Behältern einfrieren. Es schmeckt aufgewärmt sogar noch besser."
+    }
+  ]
+}

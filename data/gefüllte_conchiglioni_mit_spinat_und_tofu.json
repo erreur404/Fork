@@ -1,0 +1,86 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Gefüllte Conchiglioni mit Spinat und Tofu-'Ricotta'",
+  "source": "Gemini",
+  "steps": [
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Große Füllnudeln (Conchiglioni oder Lumaconi)",
+      "notes": "2 Minuten kürzer als auf der Packung angegeben al dente kochen. Abgießen und unter kaltem Wasser abschrecken."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Zwiebel (ca. 150g)",
+      "notes": "gehackt. In einem Topf mit etwas Wasser andünsten. Knoblauch hinzufügen."
+    },
+    {
+      "quantity": 2,
+      "unit": "Zehen",
+      "ingredient": "Knoblauch",
+      "notes": "gehackt."
+    },
+    {
+      "quantity": 800,
+      "unit": "g",
+      "ingredient": "Gehackte Tomaten (Dose)",
+      "notes": "Hinzufügen und 15 Minuten köcheln lassen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Bund",
+      "ingredient": "Frischer Basilikum",
+      "notes": "fein geschnitten, am Ende der Kochzeit in die Soße geben. Mit Pfeffer würzen. (Zubereitung der Soße abgeschlossen)"
+    },
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Fester Tofu",
+      "notes": "gut abgetropft. Mit einer Gabel in einer Schüssel zerbröseln."
+    },
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Spinat (gefroren oder frisch)",
+      "notes": "Gefrorenen Spinat auftauen und sehr fest ausdrücken. Frischen Spinat in einer heißen Pfanne 'zusammenfallen' lassen und ausdrücken. Grob hacken. Zum Tofu geben."
+    },
+    {
+      "quantity": 4,
+      "unit": "EL",
+      "ingredient": "Nährhefe (Hefeflocken)",
+      "notes": "Zum Tofu-Spinat-Gemisch hinzufügen."
+    },
+    {
+      "quantity": 0.5,
+      "unit": null,
+      "ingredient": "Zitrone (Saft)",
+      "notes": "Den Saft einer halben Zitrone und Pfeffer hinzufügen. Gut vermischen, bis eine homogene Füllung entsteht."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Ofen auf 190°C vorheizen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Die Hälfte der Tomatensoße auf den Boden einer großen Auflaufform gießen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Jede Nudel mit der Spinat-Tofu-Füllung füllen und in die Auflaufform legen. Mit dem Rest der Tomatensoße bedecken."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "25-30 Minuten backen."
+    }
+  ]
+}

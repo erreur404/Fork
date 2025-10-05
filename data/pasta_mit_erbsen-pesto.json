@@ -1,0 +1,62 @@
+{
+  "yield": null,
+  "yield.unit": "Portionen",
+  "title": "Pasta mit Erbsen-Pesto",
+  "source": "Gemini",
+  "steps": [
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Vollkorn-Pasta",
+      "notes": "Kochen."
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Gefrorene Erbsen",
+      "notes": "In den letzten 5 Minuten der Kochzeit der Pasta in einem Sieb in denselben Topf geben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Alles abgießen, dabei eine Kelle Kochwasser aufbewahren."
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Cashewnüsse oder Sonnenblumenkerne",
+      "notes": "Zusammen mit einer Kelle Kochwasser, den gekochten Erbsen, dem Knoblauch, dem Olivenöl, dem Zitronensaft und einer Prise Salz in einen Mixer geben."
+    },
+    {
+      "quantity": 1,
+      "unit": "klein",
+      "ingredient": "Knoblauchzehe",
+      "notes": null
+    },
+    {
+      "quantity": 0.5,
+      "unit": null,
+      "ingredient": "Zitrone (Saft)",
+      "notes": null
+    },
+    {
+      "quantity": 4,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Pürieren, bis eine cremige Soße entsteht. Bei Bedarf etwas Kochwasser hinzufügen, wenn das Pesto zu dick ist. Sofort servieren."
+    }
+  ]
+}

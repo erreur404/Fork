@@ -1,0 +1,74 @@
+{
+  "yield": null,
+  "yield.unit": "Muffins",
+  "title": "Muffins mit roten Linsen und Karotten",
+  "source": "Gemini",
+  "steps": [
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Ofen auf 180°C vorheizen."
+    },
+    {
+      "quantity": 125,
+      "unit": "g",
+      "ingredient": "Rote Linsen",
+      "notes": "In reichlich Wasser 15 Minuten kochen, bis sie sehr weich sind, dann gut abgießen und zu einem Püree zerdrücken."
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "Vollkornmehl",
+      "notes": "Mit Backpulver und Salz in einer Schüssel vermischen."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Backpulver",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": null,
+      "ingredient": "Eier (oder veganer Ersatz)",
+      "notes": "In einer anderen Schüssel mit Milch und Öl verquirlen."
+    },
+    {
+      "quantity": 100,
+      "unit": "ml",
+      "ingredient": "Milch (pflanzlich oder Kuhmilch)",
+      "notes": null
+    },
+    {
+      "quantity": 50,
+      "unit": "ml",
+      "ingredient": "Pflanzenöl",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "mittel",
+      "ingredient": "Karotten (gerieben)",
+      "notes": "Mit dem Linsenpüree zur flüssigen Mischung geben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Die flüssige Mischung zu den trockenen Zutaten geben und kurz vermischen, ohne den Teig zu stark zu bearbeiten."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "In Muffinförmchen verteilen und 20-25 Minuten backen."
+    }
+  ]
+}

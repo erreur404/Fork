@@ -1,0 +1,92 @@
+{
+  "yield": 80,
+  "yield.unit": "Kekse",
+  "title": "Knusprige Schokoladenstückchen-Kekse",
+  "source": "Les Enquêtes d'Hannah Sweden - Joanne Fluke",
+  "steps": [
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Backofen auf 190°C (mittlere Schiene) vorheizen."
+    },
+    {
+      "quantity": 225,
+      "unit": "g",
+      "ingredient": "Geschmolzene Butter",
+      "notes": "Mit Zucker und braunem Zucker gut vermischen."
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "Weißer Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 220,
+      "unit": "g",
+      "ingredient": "Brauner Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "TL",
+      "ingredient": "Natron",
+      "notes": "Mit Salz und Vanille-Extrakt hinzufügen."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "TL",
+      "ingredient": "Vanille-Extrakt",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": null,
+      "ingredient": "Eier (verquirlt)",
+      "notes": "Hinzufügen und gut vermischen."
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Mehl (ungesiebt)",
+      "notes": "Unter ständigem Rühren unter die Mischung geben."
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Cornflakes",
+      "notes": "Mit der Hand zerkleinert hinzufügen. (Entspricht ca. 2 Tassen)"
+    },
+    {
+      "quantity": 225,
+      "unit": "g",
+      "ingredient": "Schokoladenstückchen (oder Schokotropfen)",
+      "notes": "Hinzufügen und rühren, bis der Teig homogen ist. (Menge: 150g bis 300g nach Wahl)"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Mit den Fingerspitzen walnussgroße Kugeln formen und auf ein leicht gefettetes Backblech legen. Jeweils 12 Kugeln pro Blech. Die Kugeln vorsichtig mit einem gefetteten/bemehlten Spatel flach drücken. (Anmerkung: Wenn die Kekse sich zu sehr ausbreiten, nicht flach drücken und die Temperatur auf 175°C reduzieren.)"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "8 bis 10 Minuten bei 190°C backen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "2 Minuten auf dem Blech abkühlen lassen, dann zum vollständigen Abkühlen auf ein Gitterrost legen (für besonders knusprige Kekse)."
+    }
+  ]
+}
