@@ -1,0 +1,18 @@
+{
+  "yield": 1,
+  "yield.unit": "Backblech",
+  "title": "Spekulatius",
+  "tags": ["dessert", "kekse", "weihnachten", "snack"],
+  "season": [11, 12],
+  "source": "peta.de",
+  "steps": [
+    { "quantity": 200, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 75, "unit": "g", "ingredient": "Zucker", "notes": null },
+    { "quantity": 0.25, "unit": "TL", "ingredient": "Salz", "notes": "in einer Schüssel geben und vermischen"},
+    { "quantity": 100, "unit": "g", "ingredient": "Margarine", "notes": null },
+    { "quantity": 1, "unit": "EL", "ingredient": "Pflanzenmilch", "notes": "hinzufügen und zügig verkneten" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Teig mindestens 1/2 Stunde kaltstellen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Kekse aufstechen und 8-10 Minuten backen" }
+  ]
+}

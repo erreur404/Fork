@@ -1,0 +1,16 @@
+{
+  "yield": 300,
+  "yield.unit": "mL",
+  "title": "Beeren Eiscreme",
+  "tags": ["dessert", "eis", "beeren"],
+  "season": [6, 7, 8],
+  "source": null,
+  "steps": [
+    { "quantity": 300, "unit": "g", "ingredient": "Frische Beeren", "notes": "waschen und fein pürieren (Tiefkühlfrüchte erst aufkochen)" },
+    { "quantity": 50, "unit": "g", "ingredient": "Zucker", "notes": "dazugeben und nochmal pürieren" },
+    { "quantity": 100, "unit": "g", "ingredient": "Schmand", "notes": "Unterrühren"},
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Stunden einfrieren lassen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "das Programm 'Ice Cream' wählen und einmal durchlaufen lassen." },
+    { "quantity": null, "unit": null, "ingredient": "Milch", "notes": "in ein Loch in die Mitte der Eismasse einfüllen und noch einmal mit 'Respin' durchlaufen lassen." }
+  ]
+}

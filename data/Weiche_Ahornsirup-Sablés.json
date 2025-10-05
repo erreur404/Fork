@@ -1,0 +1,82 @@
+{
+  "yield": 20,
+  "yield.unit": "Kekse",
+  "title": "Weiche Ahornsirup-Sablés",
+  "tags": ["kekse", "snack"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://www.petitsplatsentreamis.com/sables-moelleux-au-sirop-derable/",
+  "steps": [
+    {
+      "quantity": 110,
+      "unit": "g",
+      "ingredient": "Weiche halbgesalzene Butter",
+      "notes": "Mit Rohrzucker und weißem Zucker mit einem elektrischen Schneebesen cremig rühren."
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Rohrzucker",
+      "notes": null
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Weißer Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Ei",
+      "notes": "Zur Masse hinzufügen und vermischen."
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Ahornsirup",
+      "notes": "Zur Masse hinzufügen und vermischen."
+    },
+    {
+      "quantity": 280,
+      "unit": "g",
+      "ingredient": "Mehl Type 45",
+      "notes": "Mit dem Backpulver in einer anderen Schüssel vermischen. Zur flüssigen Zubereitung geben."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Backpulver",
+      "notes": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Schnell mit einem Spatel mischen, ohne den Teig zu sehr zu bearbeiten. Den Teig einwickeln und mindestens 2 Stunden kühl stellen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Ofen auf 180°C vorheizen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Teig auf einer bemehlten Arbeitsfläche 4-5 mm dick ausrollen. Die Sablés mit einem Ausstecher ausstechen. Auf ein mit Backpapier belegtes Backblech legen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "10 bis 12 Minuten backen. Die Sablés sollten leicht gebräunt sein."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Vollständig auf einem Gitter abkühlen lassen."
+    }
+  ]
+}

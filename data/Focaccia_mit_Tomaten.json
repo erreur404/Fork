@@ -1,0 +1,88 @@
+{
+  "yield": 1,
+  "yield.unit": "Focaccia (20x30 cm)",
+  "title": "Focaccia mit Tomaten",
+  "tags": ["brot", "snack", "vegan"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://biancazapatka.com/de/focaccia-mit-tomaten/#recipe",
+  "steps": [
+    {
+      "quantity": 300,
+      "unit": "ml",
+      "ingredient": "lauwarmes Wasser",
+      "notes": "In einer Schüssel mit der Hefe und dem Zucker vermischen. 5 Minuten ruhen lassen."
+    },
+    {
+      "quantity": 7,
+      "unit": "g",
+      "ingredient": "Trockenhefe",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Mehl (Type 550)",
+      "notes": "Mit Salz mischen und zur Flüssigkeit geben. Mit dem Knethaken 5-10 Minuten kneten, bis ein glatter Teig entsteht."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "Zum Schluss zum Teig geben und kurz einarbeiten."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Teig in eine geölte Schüssel geben und abgedeckt 1 Stunde an einem warmen Ort gehen lassen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Ein Backblech (ca. 20x30 cm) mit Backpapier auslegen und etwas Olivenöl darauf verteilen. Den Teig in die Form geben und mit den Händen ausbreiten."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Ofen auf 200°C Ober-/Unterhitze vorheizen."
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Kirschtomaten",
+      "notes": "Halbieren und in den Teig drücken. Mit den Fingerspitzen tiefe Mulden in den Teig drücken."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "Über das Fladenbrot träufeln."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Rosmarinzweige",
+      "notes": "Mit grobem Salz und optional Knoblauch (kleingehackt) auf dem Teig verteilen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "20-25 Minuten backen, bis die Focaccia goldbraun ist."
+    }
+  ]
+}

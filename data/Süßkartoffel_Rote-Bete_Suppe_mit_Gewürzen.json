@@ -1,0 +1,70 @@
+{
+  "yield": "3-4",
+  "yield.unit": "Portionen",
+  "title": "Süßkartoffel Rote-Bete Suppe mit Gewürzen",
+  "tags": ["suppe", "vegan", "glutenfrei", "gesund"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://www.mangoandsalt.com/2017/10/15/veloute-de-patate-douce-betterave-aux-epices/",
+  "steps": [
+    {
+      "quantity": 1,
+      "unit": "kleine",
+      "ingredient": "weiße Zwiebel",
+      "notes": "schälen und hacken."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Olivenöl",
+      "notes": "In einem Topf einen Esslöffel Olivenöl bei mittlerer Hitze erhitzen, dann die Zwiebelstücke 2-3 Minuten andünsten."
+    },
+    {
+      "quantity": 1,
+      "unit": "große",
+      "ingredient": "Süßkartoffel",
+      "notes": "oder 2 kleine"
+    },
+    {
+      "quantity": 2,
+      "unit": null,
+      "ingredient": "gekochte Rote Bete",
+      "notes": "Während die Zwiebel dünstet, die Süßkartoffeln schälen und das Gemüse in ca. 1 cm dicke Scheiben schneiden."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "Würfel",
+      "ingredient": "Gemüsebrühe",
+      "notes": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Meersalz, Pfeffer aus der Mühle",
+      "notes": "Das Gemüse und den Brühwürfel in den Topf geben, salzen, pfeffern und mit Wasser bedecken, bis der Wasserstand ca. 2 cm über dem Gemüse steht."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Zum Kochen bringen, dann die Hitze reduzieren und ca. 10-15 Minuten köcheln lassen."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Nelken, gemahlen",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Kreuzkümmel, gemahlen",
+      "notes": "gestrichen. Beide Gewürze während der letzten Kochminuten hinzugeben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Herd ausschalten und alles mit einem Standmixer oder Pürierstab pürieren."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "yield": 1,
+  "yield.unit": "Kuchen",
+  "title": "Erbsen-Karotten Kuchen",
+  "tags": ["kuchen", "snack"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://www.hervecuisine.com/recette/recette-cake-petits-pois-carottes-facile/",
+  "steps": [
+    {
+      "quantity": 3,
+      "unit": null,
+      "ingredient": "Eier",
+      "notes": "In einer Schüssel verquirlen."
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Mehl",
+      "notes": "Zur Zubereitung mit Pfeffer und Backpulver hinzufügen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Päckchen",
+      "ingredient": "Backpulver",
+      "notes": null
+    },
+    {
+      "quantity": 10,
+      "unit": "cl",
+      "ingredient": "Milch",
+      "notes": "Hinzufügen und mit einem Schneebesen vermischen."
+    },
+    {
+      "quantity": 10,
+      "unit": "cl",
+      "ingredient": "Olivenöl",
+      "notes": "Hinzufügen und vermischen."
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Geriebener Käse (Emmentaler, Comté)",
+      "notes": "Hinzufügen und vermischen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Salz",
+      "notes": "Würzen. Den Ofen auf 180°C vorheizen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Pfeffer",
+      "notes": null
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Verschiedenes Gemüse (Erbsen, geschnittene Karotten, etc.)",
+      "notes": "Zum Teig hinzufügen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Teig in eine geölte und bemehlte Kuchenform gießen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "45 Minuten bei 180°C backen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Die Garprobe mit der Spitze eines Messers machen. Vor dem Stürzen abkühlen lassen."
+    }
+  ]
+}

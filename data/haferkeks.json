@@ -1,0 +1,76 @@
+{
+  "yield": 12,
+  "yield.unit": "Stück",
+  "title": "Haferkekse",
+  "tags": ["kekse", "snack", "vegan"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "Bianca Zapatka",
+  "steps": [
+    {
+      "quantity": 125,
+      "unit": "g",
+      "ingredient": "Haferflocken",
+      "notes": null
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Mehl",
+      "notes": null
+    },
+    {
+      "quantity": 0.5,
+      "unit": "Päckchen",
+      "ingredient": "Backpulver",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Vanille, gemahlen",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": 60,
+      "unit": "g",
+      "ingredient": "Rohrohrzucker",
+      "notes": "in eine Schüssel geben und vermischen"
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Butter",
+      "notes": null
+    },
+    {
+      "quantity": 40,
+      "unit": "g",
+      "ingredient": "Agavendicksaft",
+      "notes": ", weich, dazugeben und verkneten"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Kügelchen formen und auf eine Backblech legen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "15 Minuten bei 200° Ober/Unterhitze (180° Umluft)"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Anschließend vollständig abkühlen lassen. (Die Kekse sind nach dem Backen noch sehr weich, aber sie werden beim Abkühlen knusprig)."
+    }
+  ]
+}

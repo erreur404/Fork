@@ -1,0 +1,106 @@
+{
+  "yield": 20,
+  "yield.unit": "Kekse",
+  "title": "Afghanische Kekse",
+  "tags": ["kekse", "snack"],
+  "season": [10, 11, 12],
+  "source": "https://www.peko-peko.fr/recettes/afghan-biscuits/",
+  "steps": [
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "weiche Butter",
+      "notes": "In einer Schüssel mit dem Zucker vermischen, bis die Mischung cremig und luftig ist."
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Zucker",
+      "notes": "Für den Teig verwenden."
+    },
+    {
+      "quantity": 165,
+      "unit": "g",
+      "ingredient": "Mehl",
+      "notes": "In einer separaten Schüssel mit dem ungesüßten Kakaopulver sieben. Alles zur Butter-Zucker-Mischung geben."
+    },
+    {
+      "quantity": 25,
+      "unit": "g",
+      "ingredient": "ungesüßtes Kakaopulver",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Vanillearoma",
+      "notes": "Zur Butter-Zucker-Mehl-Mischung geben und verrühren."
+    },
+    {
+      "quantity": 60,
+      "unit": "g",
+      "ingredient": "Cornflakes",
+      "notes": "Grob zerdrückt unterheben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Ofen auf 180°C vorheizen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "25 g Kugeln (oder kleinere) formen und auf ein mit Backpapier ausgelegtes Blech legen. Leicht flach drücken."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Etwa 13 Minuten im vorgeheizten Ofen backen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Vollständig abkühlen lassen."
+    },
+    {
+      "quantity": 130,
+      "unit": "g",
+      "ingredient": "Puderzucker",
+      "notes": "Für die Glasur: mit den restlichen Glasurzutaten vermischen."
+    },
+    {
+      "quantity": 4,
+      "unit": "g",
+      "ingredient": "ungesüßtes Kakaopulver",
+      "notes": "Für die Glasur."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Vanillearoma",
+      "notes": "Für die Glasur."
+    },
+    {
+      "quantity": 3,
+      "unit": "g",
+      "ingredient": "Butter",
+      "notes": "Ein kleines Stück, geschmolzen, für die Glasur."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "warmes Wasser",
+      "notes": "Zur Glasur geben und verrühren, bis eine cremige Konsistenz entsteht."
+    },
+    {
+      "quantity": 20,
+      "unit": "Walnusskerne",
+      "ingredient": "Walnüsse",
+      "notes": "Jeden Keks mit etwas Glasur und einer halben Walnuss belegen. 1 Stunde an der Luft trocknen lassen."
+    }
+  ]
+}

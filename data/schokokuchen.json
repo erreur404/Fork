@@ -1,0 +1,23 @@
+{
+  "yield": 1,
+  "yield.unit": "Kuchen",
+  "title": "Veganer Schokokuchen",
+  "tags": ["dessert", "kuchen", "vegan", "schokolade"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://www.peta.de/rezepte/veganer-schokokuchen/",
+  "steps": [
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Backofen auf 180 Grad (Ober-/Unterhitze) vorheizen." },
+    { "quantity": 200, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 40, "unit": "g", "ingredient": "Kakaopulver", "notes": "in eine Schüssel sieben" },
+    { "quantity": 190, "unit": "g", "ingredient": "Zucker", "notes": null },
+    { "quantity": 1, "unit": "Päckchen", "ingredient": "Vanillezucker", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Natron", "notes": null },
+    { "quantity": 0.5, "unit": "TL", "ingredient": "Salz", "notes": "dazugeben und mit einem Schneebesen verrühren" },
+    { "quantity": 240, "unit": "ml", "ingredient": "warmes Wasser", "notes": null },
+    { "quantity": 80, "unit": "ml", "ingredient": "Rapsöl", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Apfelessig", "notes": "dazugeben und verrühren." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "In eine gefettete Backform geben und je nach Höhe der Form 35-55 Minuten backen (Stäbchenprobe machen). Bei Muffinförmchen ca. 25 Minuten backen. Auskühlen lassen." },
+    { "quantity": 100, "unit": "g", "ingredient": "vegane Schokolade", "notes": "im Wasserbad schmelzen" },
+    { "quantity": 1, "unit": "EL", "ingredient": "Kokosöl", "notes": "zur Schokolade geben für Glanz und bessere Schneidbarkeit, glasieren" }
+  ]
+}
