@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Vue GitHub Pages Example</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2em;
+    }
+
+    .resource {
+      margin: 1em 0;
+    }
+
+    /* col-1 and col-2 appear next to each other on widescreen and col 2 goes beneath on small screens */
+    #planning-view {
+      margin-top: 2em;
+    }
+    .col {
+      box-sizing: border-box;
+      padding: 0 1em;
+      width: 100%;
+      float: none;
+      margin-bottom: 2em;
+    }
+    @media only screen and (min-width: 1000px) {
+      .col-m-left {
+        width: 50%;
+        float: left;
+      }
+      .col-m-right {
+        width: 50%;
+        float: right;
+      }
+    }
+
+    .highlighted {
+      font-weight: bold;
+      background-color: yellow;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">
+    <h1>Rezepte</h1>
+    <div v-if="loadingProgress < 1">
+      <progress :value="loadingProgress" max="1" style="width:300px;"></progress>
+      <span>{{ loadingProgressMessage }}</span>
+    </div>
+    <div v-if="recipies">
+      <!-- Recipe filter formular -->
+      <div style="margin:1em 0; padding:1em; border:1px solid #ccc;">
+        <!-- Title search -->
+        <label>
+          Suche im Titel:
+          <input v-model="searchString" placeholder="Suchbegriff..." />
+        </label>
+        <br><br>
+
+        <!-- Search by Tags -->
+        <label>Tags filtern:</label>
+        <select v-model="selectedTags" multiple style="min-width:120px;">
+          <option v-for="tag in allTags" :key="tag" :value="tag">{{ tag }}</option>
+        </select>
+        <button type="button" @click="selectedTags = []" style="margin-left:8px;">Alle Tags abwählen</button>
+
+        <!-- Search by Ingredients -->
+        <label> Zutaten filtern:</label>
+        <select v-model="selectedIngredients" multiple style="min-width:120px; margin-left:8px;">
+          <option v-for="ing in allIngredients" :key="ing" :value="ing">{{ ing }}</option>
+        </select>
+        <button type="button" @click="selectedIngredients = []" style="margin-left:8px;">Alle Zutaten abwählen</button>
+        <br><br>
+
+        <!-- Filter by Months -->
+        <label>Monate filtern:</label>
+        <span v-for="month in months" :key="month.value" style="margin-right:8px;">
+          <input type="checkbox" :id="'month'+month.value" :value="month.value" v-model="selectedMonths" />
+          <label :for="'month'+month.value">{{ month.label }}</label>
+        </span>
+      </div>
+      <div id="planning-view">
+        <div class="col col-m-left">
+          <!-- overview of selected recipies -->
+          <h2>Gefilterte Rezepte</h2>
+          <ul>
+            <li v-for="recipe in filteredRecipies" :key="recipe.path" style="margin-bottom:1em;">
+              <strong>{{ recipe.title }}</strong>
+              <br>
+              <span>Tags: {{ recipe.tags.join(', ') }}</span><br>
+              <!-- displaying the months abbreviations wenn not all are selected -->
+              <span v-if="recipe.season.length < 12">Monate:&nbsp;
+                <span v-for="m of recipe.season" :class="[m-1 == (new Date()).getMonth() ? 'highlighted' : '']">{{ months[m-1].label }}, </span>
+              </span></br>
+              <button @click="selectRecipe(recipe)">Auswählen</button>
+            </li>
+          </ul>
+        </div>
+        <div v-if="selectedRecipies.length" class="col col-m-right">
+          <h2>Ausgewählte Rezepte</h2>
+          <ul>
+            <li v-for="(sel, idx) in selectedRecipies" :key="sel.recipe.path">
+              <strong>{{ sel.recipe.title }}</strong>
+              <span>
+                (Faktor:
+                <input type="number" min="0.1" step="0.1" v-model.number="sel.factor" style="width:4em;"
+                  @change="updateFactor(idx, sel.factor)" />
+                )
+              </span>
+              <button @click="removeSelected(idx)" style="margin-left:8px;">Entfernen</button>
+            </li>
+          </ul>
+        </div>
+        <div class="col col-m-left">
+          <h2>Einkaufsliste</h2>
+          <ul>
+            <li v-for="item in groceryList" :key="item.key" style="margin-bottom:0.5em; list-style:none;">
+              <input type="checkbox" v-model="item.checked" />
+              <span>
+                <strong>{{ item.ingredient }}</strong>
+                <span v-if="item.totalQuantity !== null">: {{ item.totalQuantity }} {{ item.unit }}</span>
+                <span v-else> </span>
+                <span style="color:#888; font-size:0.95em;"> ({{ item.recipes.join(', ') }})</span>
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="cooking-view">
+        <!-- here we display all the selected recipies, each in a table that reminds of the json format -->
+
+      </div>
+    </div>
+  </div>
+  <script>
+    const { createApp } = Vue;
+    createApp({
+      data() {
+        return {
+          recipies: null,
+          searchString: '',
+          selectedTags: [],
+          selectedIngredients: [],
+          selectedMonths: [],
+          selectedRecipies: [],
+          months: [
+            { value: 1, label: 'Jan' }, { value: 2, label: 'Feb' }, { value: 3, label: 'Mär' },
+            { value: 4, label: 'Apr' }, { value: 5, label: 'Mai' }, { value: 6, label: 'Jun' },
+            { value: 7, label: 'Jul' }, { value: 8, label: 'Aug' }, { value: 9, label: 'Sep' },
+            { value: 10, label: 'Okt' }, { value: 11, label: 'Nov' }, { value: 12, label: 'Dez' }
+          ]
+        }
+      },
+      mounted() {
+        this.loadResource();
+      },
+      computed: {
+        allTags() {
+          if (!this.recipies) return [];
+          const tags = new Set();
+          this.recipies.forEach(r => r.tags.forEach(t => tags.add(t)));
+          return Array.from(tags).sort();
+        },
+        allIngredients() {
+          if (!this.recipies) return [];
+          const ingredients = new Set();
+          this.recipies.forEach(r => r.steps && r.steps.forEach(s => {
+            if (s.ingredient) ingredients.add(s.ingredient);
+          }));
+          return Array.from(ingredients).sort();
+        },
+        filteredRecipies() {
+          if (!this.recipies) return [];
+          return this.recipies.filter(recipe => {
+            // Title filter
+            const titleMatch = !this.searchString || recipe.title.toLowerCase().includes(this.searchString.toLowerCase());
+            // Tag filter: at least one selected tag
+            const tagMatch = !this.selectedTags.length || recipe.tags.some(tag => this.selectedTags.includes(tag));
+            // Month filter: at least one selected month
+            const monthMatch = !this.selectedMonths.length || recipe.season.some(m => this.selectedMonths.includes(m));
+            // Ingredient filter: at least one selected ingredient
+            const ingredientMatch = !this.selectedIngredients.length || (recipe.steps && recipe.steps.some(s => this.selectedIngredients.includes(s.ingredient)));
+            return titleMatch && tagMatch && monthMatch && ingredientMatch;
+          });
+        },
+        groceryList() {
+          // Build a grocery list from selectedRecipies, summing quantities by ingredient+unit
+          const map = new Map();
+          this.selectedRecipies.forEach(sel => {
+            const steps = sel.recipe.steps || [];
+            steps.forEach(s => {
+              if (!s.ingredient) return;
+              const key = s.ingredient + '|' + (s.unit || '');
+              let entry = map.get(key);
+              if (!entry) {
+                entry = {
+                  key,
+                  ingredient: s.ingredient,
+                  unit: s.unit || '',
+                  totalQuantity: this.isNumber(s.quantity) ? 0 : null,
+                  recipes: [],
+                  checked: false
+                };
+                map.set(key, entry);
+              }
+              // Sum quantity if possible
+              if (entry.totalQuantity !== null && this.isNumber(s.quantity)) {
+                entry.totalQuantity += s.quantity * sel.factor;
+              } else {
+                entry.totalQuantity = null;
+              }
+              if (!entry.recipes.includes(sel.recipe.title)) {
+                entry.recipes.push(sel.recipe.title);
+              }
+            });
+          });
+
+          // Return the list sorted by ingredient name
+          // and round quantities for display
+          return Array.from(map.values()).sort((a, b) => a.ingredient.localeCompare(b.ingredient)).map(e => {
+            if (e.totalQuantity !== null) {
+              e.totalQuantity = Math.round((e.totalQuantity + Number.EPSILON) * 100) / 100;
+            }
+            return e;
+          });
+        }
+      },
+      methods: {
+        isNumber(val) {
+          return val !== null && val !== undefined && !isNaN(val);
+        },
+        async loadResource() {
+          const files = await fetch('_index.txt');
+          const filesPaths = (await files.text())
+            .split('\n')
+            .map(line => line.trim())
+            .filter(line => line.length > 0);
+
+          this.recipies = [];
+          let loadedCount = 0;
+          const totalCount = filesPaths.length;
+
+          // Load each recipe details and display the progress
+          await Promise.all(filesPaths.map(async (path) => {
+            const res = await fetch(path);
+            const details = await res.json();
+            loadedCount++;
+            this.loadingProgressMessage = `Lade Rezepte... (${loadedCount} / ${totalCount})`;
+            this.loadingProgress = loadedCount / totalCount;
+            this.recipies.push({ path, ...details });
+          }));
+
+          console.log(this.recipies);
+        },
+        selectRecipe(recipe) {
+          // Check if already selected
+          if (this.selectedRecipies.some(sel => sel.recipe.path === recipe.path)) return;
+          let factor = 1;
+          const input = prompt('Faktor für das Rezept eingeben:', '1');
+          if (input !== null && !isNaN(parseFloat(input)) && parseFloat(input) > 0) {
+            factor = parseFloat(input);
+          }
+          this.selectedRecipies.push({ recipe, factor });
+        },
+        updateFactor(idx, value) {
+          if (value === null || isNaN(value) || value <= 0) {
+            this.selectedRecipies[idx].factor = 1;
+          } else {
+            this.selectedRecipies[idx].factor = value;
+          }
+        },
+        removeSelected(idx) {
+          this.selectedRecipies.splice(idx, 1);
+        }
+      }
+    }).mount('#app');
+  </script>
+</body>
+
+</html>
