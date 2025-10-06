@@ -2,6 +2,8 @@
   "yield": 80,
   "yield.unit": "Kekse",
   "title": "Knusprige Schokoladenstückchen-Kekse",
+  "tags": ["kekse", "snack"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Les Enquêtes d'Hannah Sweden - Joanne Fluke",
   "steps": [
     {
