@@ -251,10 +251,35 @@
             loadedCount++;
             this.loadingProgressMessage = `Lade Rezepte... (${loadedCount} / ${totalCount})`;
             this.loadingProgress = loadedCount / totalCount;
-            this.recipies.push({ path, ...details });
+            if (this.assertValidRecipe(details)) {
+              this.recipies.push({ path, ...details });
+            }
           }));
 
           console.log(this.recipies);
+        },
+        /** Validate a recipe structure
+         * returns true if valid, false otherwise
+        */
+        assertValidRecipe(recipe) {
+          let valid = true;
+          if (!recipe.title) {
+            console.error('Recipe without title: ', recipe);
+            valid = false;
+          };
+          if (!Array.isArray(recipe.tags)) {
+            console.error('Recipe without tags array: ', recipe);
+            valid = false;
+          };
+          if (!Array.isArray(recipe.season)){
+            console.error('Recipe without season array: ', recipe);
+            valid = false;
+          };
+          if (!Array.isArray(recipe.steps)) {
+            console.error('Recipe without steps array: ', recipe);
+            valid = false;
+          };
+          return valid;
         },
         selectRecipe(recipe) {
           // Check if already selected
