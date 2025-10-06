@@ -97,6 +97,7 @@
                 <span v-for="m of recipe.season" :class="[m-1 == (new Date()).getMonth() ? 'highlighted' : '']">{{ months[m-1].label }}, </span>
               </span></br>
               <button @click="selectRecipe(recipe)">Auswählen</button>
+              <a :href="'recipe.html?path=' + encodeURIComponent(recipe.path)" target="_blank">Details</a>
             </li>
           </ul>
         </div>

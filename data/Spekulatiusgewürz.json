@@ -1,0 +1,64 @@
+{
+  "yield": 1,
+  "yield.unit": "Glas",
+  "title": "Spekulatiusgewürz selber machen",
+  "tags": ["gewürz", "weihnachten"],
+  "season": [11, 12],
+  "source": "https://www.einfachbacken.de/rezepte/spekulatiusgewuerz-selber-machen-das-beste-rezept",
+  "steps": [
+    {
+      "quantity": 10,
+      "unit": "g",
+      "ingredient": "Zimt (Ceylon oder Cassia)",
+      "notes": "Wenn kein Zimt gemahlen verwendet wird: Zimtstangen im Mixer zu feinem Pulver vermahlen."
+    },
+    {
+      "quantity": 3,
+      "unit": "g",
+      "ingredient": "gemahlene Nelken",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "g",
+      "ingredient": "gemahlener Muskat",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "g",
+      "ingredient": "gemahlener Kardamom",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "g",
+      "ingredient": "gemahlener Ingwer",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "g",
+      "ingredient": "gemahlener Piment",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "g",
+      "ingredient": "gemahlener Macis/Muskatblüte",
+      "notes": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Alle gemahlenen Gewürze in eine Schüssel geben und gut vermischen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Das Spekulatiusgewürz in ein luftdicht verschließbares Glas füllen."
+    }
+  ]
+}

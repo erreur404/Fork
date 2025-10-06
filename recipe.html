@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Rezept Details</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <style>
+    body { font-family: sans-serif; margin: 2em; }
+    .back-btn {
+      margin-bottom: 1em;
+      padding: 0.5em 1em;
+      background: #eee;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .steps-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+    .steps-table th, .steps-table td {
+      border: 1px solid #ddd;
+      padding: 0.5em;
+      vertical-align: top;
+    }
+    .steps-table th {
+      background: #f8f8f8;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <button class="back-btn" @click="goBack">Zurück zur Übersicht</button>
+    <div v-if="loading">Lade Rezept...</div>
+    <div v-else-if="recipe">
+      <h1>{{ recipe.title }}</h1>
+      <p><strong>Tags:</strong> {{ recipe.tags.join(', ') }}</p>
+      <p><strong>Saison:</strong> {{ recipe.season.join(', ') }}</p>
+      <p><strong>Quelle:</strong>
+        <template v-if="isUrl(recipe.source)">
+          <a :href="recipe.source" target="_blank">{{ recipe.source }}</a>
+        </template>
+        <template v-else>
+          {{ recipe.source }}
+        </template>
+      </p>
+      <h2>Schritte</h2>
+      <table class="steps-table">
+        <thead>
+          <tr>
+            <th>Zutat</th>
+            <th>Schritt / Notiz</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="step in recipe.steps">
+            <td>
+              <span v-if="step.ingredient">
+                <strong>{{ step.ingredient }}</strong>
+                <span v-if="step.quantity !== null"> ({{ step.quantity }} {{ step.unit }})</span>
+              </span>
+              <span v-else>-</span>
+            </td>
+            <td>
+              <span v-if="step.notes">{{ step.notes }}</span>
+              <span v-else>-</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div v-else>
+      <p>Rezept nicht gefunden.</p>
+    </div>
+  </div>
+  <script>
+    const { createApp } = Vue;
+    createApp({
+      data() {
+        return {
+          recipe: null,
+          loading: true
+        }
+      },
+      methods: {
+        goBack() {
+          window.location.href = 'index.html';
+        },
+        isUrl(str) {
+          try {
+            return !!new URL(str);
+          } catch {
+            return false;
+          }
+        }
+      },
+      async mounted() {
+        const params = new URLSearchParams(window.location.search);
+        const path = params.get('path');
+        if (path) {
+          try {
+            const res = await fetch(path);
+            this.recipe = await res.json();
+          } catch (e) {
+            this.recipe = null;
+          }
+        }
+        this.loading = false;
+      }
+    }).mount('#app');
+  </script>
+</body>
+</html>
