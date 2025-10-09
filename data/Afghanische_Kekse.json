@@ -9,8 +9,8 @@
     {
       "quantity": 200,
       "unit": "g",
-      "ingredient": "weiche Butter",
-      "notes": "In einer Schüssel mit dem Zucker vermischen, bis die Mischung cremig und luftig ist."
+      "ingredient": "Butter",
+      "notes": "weiche. In einer Schüssel mit dem Zucker vermischen, bis die Mischung cremig und luftig ist."
     },
     {
       "quantity": 100,
@@ -27,7 +27,7 @@
     {
       "quantity": 25,
       "unit": "g",
-      "ingredient": "ungesüßtes Kakaopulver",
+      "ingredient": "Kakaopulver, ungesüßtes",
       "notes": null
     },
     {

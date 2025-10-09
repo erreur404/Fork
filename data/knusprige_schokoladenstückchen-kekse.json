@@ -15,7 +15,7 @@
     {
       "quantity": 225,
       "unit": "g",
-      "ingredient": "Geschmolzene Butter",
+      "ingredient": "Butter, Geschmolzene",
       "notes": "Mit Zucker und braunem Zucker gut vermischen."
     },
     {
@@ -51,14 +51,14 @@
     {
       "quantity": 2,
       "unit": null,
-      "ingredient": "Eier (verquirlt)",
-      "notes": "Hinzufügen und gut vermischen."
+      "ingredient": "Eier",
+      "notes": "(verquirlt). Hinzufügen und gut vermischen."
     },
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Mehl (ungesiebt)",
-      "notes": "Unter ständigem Rühren unter die Mischung geben."
+      "ingredient": "Mehl",
+      "notes": "(ungesiebt). Unter ständigem Rühren unter die Mischung geben."
     },
     {
       "quantity": 120,

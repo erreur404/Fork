@@ -9,7 +9,7 @@
     {
       "quantity": 1,
       "unit": "kleine",
-      "ingredient": "weiße Zwiebel",
+      "ingredient": "Zwiebel",
       "notes": "schälen und hacken."
     },
     {
@@ -27,20 +27,26 @@
     {
       "quantity": 2,
       "unit": null,
-      "ingredient": "gekochte Rote Bete",
+      "ingredient": "Rote Bete, gekochte",
       "notes": "Während die Zwiebel dünstet, die Süßkartoffeln schälen und das Gemüse in ca. 1 cm dicke Scheiben schneiden."
     },
     {
       "quantity": 0.5,
       "unit": "Würfel",
       "ingredient": "Gemüsebrühe",
-      "notes": null
+      "notes": "Das Gemüse und den Brühwürfel in den Topf geben,"
     },
     {
       "quantity": null,
       "unit": null,
-      "ingredient": "Meersalz, Pfeffer aus der Mühle",
-      "notes": "Das Gemüse und den Brühwürfel in den Topf geben, salzen, pfeffern und mit Wasser bedecken, bis der Wasserstand ca. 2 cm über dem Gemüse steht."
+      "ingredient": "Meersalz",
+      "notes": " aus der Mühle,"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Pfeffer",
+      "notes": " aus der Mühle und mit Wasser bedecken, bis der Wasserstand ca. 2 cm über dem Gemüse steht."
     },
     {
       "quantity": null,

@@ -1,0 +1,81 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Thailändisches Grünes Curry mit Tofu und Gemüse",
+  "source": "Gemini",
+  "tags": [
+    "curry",
+    "thailändisch",
+    "vegan"
+  ],
+  "season": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "steps": [
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Tofu, Fester",
+      "notes": "Gepresst und gewürfelt."
+    },
+    {
+      "quantity": 2.5,
+      "unit": "EL",
+      "ingredient": "Thailändische grüne Currypaste",
+      "notes": "Menge nach Geschmack wählen (2-3 EL). 1 EL des dicken Teils der Kokosmilch in einem Wok erhitzen, Currypaste hinzufügen und 1 Minute braten, bis die Aromen freigesetzt werden."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Tofuwürfel hinzufügen und gut ummanteln."
+    },
+    {
+      "quantity": 1,
+      "unit": "Dose (400ml)",
+      "ingredient": "Kokosmilch, Volle",
+      "notes": "Den Rest der Kokosmilch und die Gemüsebrühe hinzufügen. Zum Köcheln bringen."
+    },
+    {
+      "quantity": 250,
+      "unit": "ml",
+      "ingredient": "Gemüsebrühe",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Brokkoli",
+      "notes": "in Röschen. Mit der Paprika hinzufügen. 5-7 Minuten kochen, bis sie zart, aber noch knackig sind."
+    },
+    {
+      "quantity": 1,
+      "unit": "rot",
+      "ingredient": "Paprika",
+      "notes": "in Streifen."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Zuckerschoten oder grüne Bohnen",
+      "notes": "Hinzufügen und weitere 2 Minuten kochen."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Limette, Saft",
+      "notes": "Topf vom Herd nehmen und Saft mit den Basilikumblättern unterrühren."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Thailändische Basilikumblätter",
+      "notes": "Falls vorhanden."
+    }
+  ]
+}

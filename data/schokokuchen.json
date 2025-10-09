@@ -17,7 +17,7 @@
     { "quantity": 80, "unit": "ml", "ingredient": "Rapsöl", "notes": null },
     { "quantity": 1, "unit": "TL", "ingredient": "Apfelessig", "notes": "dazugeben und verrühren." },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "In eine gefettete Backform geben und je nach Höhe der Form 35-55 Minuten backen (Stäbchenprobe machen). Bei Muffinförmchen ca. 25 Minuten backen. Auskühlen lassen." },
-    { "quantity": 100, "unit": "g", "ingredient": "vegane Schokolade", "notes": "im Wasserbad schmelzen" },
+    { "quantity": 100, "unit": "g", "ingredient": "Schokolade, vegane", "notes": "im Wasserbad schmelzen" },
     { "quantity": 1, "unit": "EL", "ingredient": "Kokosöl", "notes": "zur Schokolade geben für Glanz und bessere Schneidbarkeit, glasieren" }
   ]
 }

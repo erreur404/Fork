@@ -2,8 +2,8 @@
   "yield": null,
   "yield.unit": "Portionen",
   "title": "Pasta mit Erbsen-Pesto",
-  "tags": ["pasta", "vegan"],
-  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "tags": ["pasta", "italienisch", "vegan"],
+  "season": [3, 4, 5, 6, 7, 8],
   "source": "Gemini",
   "steps": [
     {
@@ -39,7 +39,7 @@
     {
       "quantity": 0.5,
       "unit": null,
-      "ingredient": "Zitrone (Saft)",
+      "ingredient": "Zitrone, Saft",
       "notes": null
     },
     {

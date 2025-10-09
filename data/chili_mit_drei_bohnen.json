@@ -15,8 +15,8 @@
     {
       "quantity": 1,
       "unit": null,
-      "ingredient": "Paprika (Farbe nach Wahl)",
-      "notes": "gewürfelt. Zur Zwiebel geben und mitdünsten."
+      "ingredient": "Paprika",
+      "notes": "(Farbe nach Wahl) gewürfelt. Zur Zwiebel geben und mitdünsten."
     },
     {
       "quantity": 3,
@@ -33,7 +33,7 @@
     {
       "quantity": 1,
       "unit": "EL",
-      "ingredient": "Kreuzkümmel (gemahlen)",
+      "ingredient": "Kreuzkümmel, gemahlen",
       "notes": null
     },
     {
@@ -45,13 +45,13 @@
     {
       "quantity": 1,
       "unit": "TL",
-      "ingredient": "Getrockneter Oregano",
+      "ingredient": "Oregano, Getrockneter",
       "notes": null
     },
     {
       "quantity": 800,
       "unit": "g",
-      "ingredient": "Gehackte Tomaten (Dose)",
+      "ingredient": "Tomaten, Gehackte",
       "notes": "Mit Tomatenmark, Gemüsebrühe und allen Bohnen hinzufügen."
     },
     {
@@ -69,20 +69,20 @@
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Gekochte Kidneybohnen",
+      "ingredient": "Kidneybohnen, Gekochte",
       "notes": "Abgetropft und abgespült."
     },
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Gekochte schwarze Bohnen",
+      "ingredient": "schwarze Bohnen, Gekochte",
       "notes": "Abgetropft und abgespült."
     },
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Gekochte Pintobohnen oder Cannellinibohnen",
-      "notes": "Abgetropft und abgespült."
+      "ingredient": "Pintobohnen, Gekochte",
+      "notes": "(oder Cannellinibohnen). Abgetropft und abgespült."
     },
     {
       "quantity": null,

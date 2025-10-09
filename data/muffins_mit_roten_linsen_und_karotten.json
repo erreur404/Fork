@@ -2,7 +2,7 @@
   "yield": null,
   "yield.unit": "Muffins",
   "title": "Muffins mit roten Linsen und Karotten",
-  "tags": ["snack", "vegan"],
+  "tags": ["snack", "herzhaft", "vegan"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Gemini",
   "steps": [
@@ -57,8 +57,8 @@
     {
       "quantity": 2,
       "unit": "mittel",
-      "ingredient": "Karotten (gerieben)",
-      "notes": "Mit dem Linsenpüree zur flüssigen Mischung geben."
+      "ingredient": "Karotten",
+      "notes": "(gerieben). Mit dem Linsenpüree zur flüssigen Mischung geben."
     },
     {
       "quantity": null,

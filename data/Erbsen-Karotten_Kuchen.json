@@ -2,8 +2,8 @@
   "yield": 1,
   "yield.unit": "Kuchen",
   "title": "Erbsen-Karotten Kuchen",
-  "tags": ["kuchen", "snack"],
-  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "tags": ["kuchen", "salzigerkuchen", "vegetarisch", "snack"],
+  "season": [4, 5, 6, 7, 8, 9],
   "source": "https://www.hervecuisine.com/recette/recette-cake-petits-pois-carottes-facile/",
   "steps": [
     {
@@ -39,8 +39,8 @@
     {
       "quantity": 120,
       "unit": "g",
-      "ingredient": "Geriebener Käse (Emmentaler, Comté)",
-      "notes": "Hinzufügen und vermischen."
+      "ingredient": "Käse, Geriebener",
+      "notes": "(Emmentaler, Comté). Hinzufügen und vermischen."
     },
     {
       "quantity": 1,

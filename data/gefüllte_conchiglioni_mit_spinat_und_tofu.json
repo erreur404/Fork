@@ -2,7 +2,7 @@
   "yield": 4,
   "yield.unit": "Portionen",
   "title": "Gefüllte Conchiglioni mit Spinat und Tofu-'Ricotta'",
-  "tags": ["pasta", "vegan"],
+  "tags": ["pasta", "italienisch", "vegan"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Gemini",
   "steps": [
@@ -15,8 +15,8 @@
     {
       "quantity": 1,
       "unit": null,
-      "ingredient": "Zwiebel (ca. 150g)",
-      "notes": "gehackt. In einem Topf mit etwas Wasser andünsten. Knoblauch hinzufügen."
+      "ingredient": "Zwiebel",
+      "notes": "(ca. 150g) gehackt. In einem Topf mit etwas Wasser andünsten. Knoblauch hinzufügen."
     },
     {
       "quantity": 2,
@@ -27,19 +27,19 @@
     {
       "quantity": 800,
       "unit": "g",
-      "ingredient": "Gehackte Tomaten (Dose)",
+      "ingredient": "Tomaten, Gehackte",
       "notes": "Hinzufügen und 15 Minuten köcheln lassen."
     },
     {
       "quantity": 1,
       "unit": "Bund",
-      "ingredient": "Frischer Basilikum",
+      "ingredient": "Basilikum, Frischer",
       "notes": "fein geschnitten, am Ende der Kochzeit in die Soße geben. Mit Pfeffer würzen. (Zubereitung der Soße abgeschlossen)"
     },
     {
       "quantity": 400,
       "unit": "g",
-      "ingredient": "Fester Tofu",
+      "ingredient": "Tofu, Fester",
       "notes": "gut abgetropft. Mit einer Gabel in einer Schüssel zerbröseln."
     },
     {
@@ -57,7 +57,7 @@
     {
       "quantity": 0.5,
       "unit": null,
-      "ingredient": "Zitrone (Saft)",
+      "ingredient": "Zitrone, Saf)",
       "notes": "Den Saft einer halben Zitrone und Pfeffer hinzufügen. Gut vermischen, bis eine homogene Füllung entsteht."
     },
     {

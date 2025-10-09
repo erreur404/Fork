@@ -2,14 +2,14 @@
   "yield": 20,
   "yield.unit": "Kekse",
   "title": "Weiche Ahornsirup-Sablés",
-  "tags": ["kekse", "snack"],
+  "tags": ["kekse", "kanadisch", "snack"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "https://www.petitsplatsentreamis.com/sables-moelleux-au-sirop-derable/",
   "steps": [
     {
       "quantity": 110,
       "unit": "g",
-      "ingredient": "Weiche halbgesalzene Butter",
+      "ingredient": "Butter, Weiche halbgesalzene",
       "notes": "Mit Rohrzucker und weißem Zucker mit einem elektrischen Schneebesen cremig rühren."
     },
     {
@@ -39,7 +39,7 @@
     {
       "quantity": 280,
       "unit": "g",
-      "ingredient": "Mehl Type 45",
+      "ingredient": "Mehl, Type 45",
       "notes": "Mit dem Backpulver in einer anderen Schüssel vermischen. Zur flüssigen Zubereitung geben."
     },
     {

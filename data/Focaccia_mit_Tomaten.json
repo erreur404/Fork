@@ -2,15 +2,15 @@
   "yield": 1,
   "yield.unit": "Focaccia (20x30 cm)",
   "title": "Focaccia mit Tomaten",
-  "tags": ["brot", "snack", "vegan"],
+  "tags": ["brot", "snack", "italienisch","vegan"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "https://biancazapatka.com/de/focaccia-mit-tomaten/#recipe",
   "steps": [
     {
       "quantity": 300,
       "unit": "ml",
-      "ingredient": "lauwarmes Wasser",
-      "notes": "In einer Schüssel mit der Hefe und dem Zucker vermischen. 5 Minuten ruhen lassen."
+      "ingredient": "Wasser",
+      "notes": "lauwarmes. In einer Schüssel mit der Hefe und dem Zucker vermischen. 5 Minuten ruhen lassen."
     },
     {
       "quantity": 7,
@@ -27,7 +27,7 @@
     {
       "quantity": 400,
       "unit": "g",
-      "ingredient": "Mehl (Type 550)",
+      "ingredient": "Mehl, Type 550",
       "notes": "Mit Salz mischen und zur Flüssigkeit geben. Mit dem Knethaken 5-10 Minuten kneten, bis ein glatter Teig entsteht."
     },
     {
