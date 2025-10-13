@@ -1,0 +1,21 @@
+{
+  "yield": 1,
+  "yield.unit": "Blech",
+  "title": "Brownies",
+  "tags": ["dessert", "kuchen"],
+  "season": [1,2,3,4,5,6,7,8,9,10,11,12],
+  "source": "Julius",
+  "steps": [
+    { "quantity": 400, "unit": "g", "ingredient": "Zartbitter schokolade", "notes": "im Wasserbad schmelzen" },
+    { "quantity": 8, "unit": "", "ingredient": "Eier", "notes": "schaumig rühren" },
+    { "quantity": 400, "unit": "g", "ingredient": "Zucker", "notes": "dazugeben"},
+    { "quantity": 340, "unit": "mL", "ingredient": "Öl", "notes": "und Schokolade dazugeben" },
+    { "quantity": 350, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Salz", "notes": null },
+    { "quantity": 1, "unit": "Packung", "ingredient": "Vanillezucker", "notes": null },
+    { "quantity": 1, "unit": "Packung", "ingredient": "Backpulver", "notes": "vermengen und dazugeben" },
+    { "quantity": 200, "unit": "g", "ingredient": "Walnüsse", "notes": "(Optional) gehackt unterheben" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den teig auf ein mit Backpapier ausgelegtes Backblech geben und glatt streichen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "20-25 Minuten bei 165° backen. !innen leicht feucht!" }
+  ]
+}
