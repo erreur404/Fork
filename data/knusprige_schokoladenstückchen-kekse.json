@@ -2,7 +2,7 @@
   "yield": 80,
   "yield.unit": "Kekse",
   "title": "Knusprige Schokoladenstückchen-Kekse",
-  "tags": ["kekse", "snack"],
+  "tags": ["kekse", "snack", "süß"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Les Enquêtes d'Hannah Sweden - Joanne Fluke",
   "steps": [
@@ -22,7 +22,7 @@
       "quantity": 200,
       "unit": "g",
       "ingredient": "Weißer Zucker",
-      "notes": null
+      "notes": "Diese Retzept ist sehr süß, mit 50g bis 80g weniger Zucker schmecken die Kekse aber auch sehr gut."
     },
     {
       "quantity": 220,

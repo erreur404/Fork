@@ -2,7 +2,7 @@
   "yield": 1,
   "yield.unit": "Blech",
   "title": "Brownies",
-  "tags": ["dessert", "kuchen"],
+  "tags": ["dessert", "kuchen", "süß"],
   "season": [1,2,3,4,5,6,7,8,9,10,11,12],
   "source": "Julius",
   "steps": [

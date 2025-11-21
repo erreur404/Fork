@@ -1,0 +1,107 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Gemüse-Tagine mit Kichererbsen und Trockenaprikosen",
+  "source": "Gemini",
+  "tags": [
+    "tagine",
+    "orientalisch",
+    "vegan", "vegetarisch",
+    "hauptgericht", "gesalzen"
+  ],
+  "season": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+  ],
+  "steps": [
+    {
+      "quantity": 1,
+      "unit": "groß",
+      "ingredient": "Zwiebel",
+      "notes": "in Scheiben. In einem Topf mit etwas Wasser andünsten."
+    },
+    {
+      "quantity": 2,
+      "unit": "Zehen",
+      "ingredient": "Knoblauch",
+      "notes": "gehackt. Mit Ingwer und den Gewürzen hinzufügen. 1 Minute kochen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Stück (2 cm)",
+      "ingredient": "Ingwer",
+      "notes": "gerieben."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Kurkuma",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Kreuzkümmel (gemahlen)",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Koriander (gemahlen)",
+      "notes": null
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Zimt (gemahlen)",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": null,
+      "ingredient": "Karotten",
+      "notes": "in dicken Scheiben. Mit Pastinaken (oder Süßkartoffel) hinzufügen und gut ummanteln."
+    },
+    {
+      "quantity": 2,
+      "unit": null,
+      "ingredient": "Pastinaken oder 1 große Süßkartoffel",
+      "notes": "in großen Würfeln."
+    },
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Gehackte Tomaten (Dose)",
+      "notes": "Mit Gemüsebrühe aufgießen. Aufkochen, abdecken, Hitze reduzieren und 25 Minuten köcheln lassen."
+    },
+    {
+      "quantity": 750,
+      "unit": "ml",
+      "ingredient": "Gemüsebrühe",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "Dosen (je 400g)",
+      "ingredient": "Kichererbsen",
+      "notes": "Abgetropft und abgespült. Mit den Aprikosen hinzufügen. 10-15 Minuten weiterkochen, bis das Gemüse weich ist."
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Aprikosen, Getrocknete",
+      "notes": "halbiert."
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Spinatblätter",
+      "notes": "Topf vom Herd nehmen und unterrühren."
+    }
+  ]
+}

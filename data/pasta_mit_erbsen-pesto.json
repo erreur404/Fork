@@ -2,7 +2,7 @@
   "yield": null,
   "yield.unit": "Portionen",
   "title": "Pasta mit Erbsen-Pesto",
-  "tags": ["pasta", "italienisch", "vegan"],
+  "tags": ["pasta", "italienisch", "vegan", "vegetarisch", "gesalzen"],
   "season": [3, 4, 5, 6, 7, 8],
   "source": "Gemini",
   "steps": [
@@ -15,8 +15,8 @@
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Gefrorene Erbsen",
-      "notes": "In den letzten 5 Minuten der Kochzeit der Pasta in einem Sieb in denselben Topf geben."
+      "ingredient": "Erbsen",
+      "notes": "Gefrorene. In den letzten 5 Minuten der Kochzeit der Pasta in einem Sieb in denselben Topf geben."
     },
     {
       "quantity": null,

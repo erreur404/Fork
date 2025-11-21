@@ -2,7 +2,7 @@
   "yield": 1,
   "yield.unit": "Backblech",
   "title": "Spekulatius",
-  "tags": ["dessert", "kekse", "weihnachten", "snack"],
+  "tags": ["dessert", "kekse", "weihnachten", "snack", "süß"],
   "season": [11, 12],
   "source": "peta.de",
   "steps": [

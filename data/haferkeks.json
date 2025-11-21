@@ -2,7 +2,7 @@
   "yield": 12,
   "yield.unit": "Stück",
   "title": "Haferkekse",
-  "tags": ["kekse", "snack", "vegan"],
+  "tags": ["kekse", "snack", "vegan", "vegetarisch", "süß"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Bianca Zapatka",
   "steps": [

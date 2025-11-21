@@ -2,7 +2,7 @@
   "yield": null,
   "yield.unit": "Muffins",
   "title": "Muffins mit roten Linsen und Karotten",
-  "tags": ["snack", "herzhaft", "vegan"],
+  "tags": ["snack", "herzhaft", "vegan", "vegetarisch", "gesalzen"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   "source": "Gemini",
   "steps": [

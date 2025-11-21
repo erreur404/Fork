@@ -1,0 +1,136 @@
+{
+  "yield": null,
+  "yield.unit": null,
+  "title": "Klassischer Kartoffelsalat (vegan)",
+  "source": "https://www.youtube.com/watch?v=LYgBfn16Wds",
+  "tags": [
+    "salat",
+    "deutsch",
+    "vegan","vegetarisch", "gesalzen",
+    "beilage"
+  ],
+  "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "steps": [
+    {
+      "quantity": 2.5,
+      "unit": "kg",
+      "ingredient": "Festkochende Kartoffeln",
+      "notes": "in Würfel schneiden. Die Kartoffelwürfel werden knusprig gebacken und saugen das Dressing perfekt auf (Geheimwaffe)."
+    },
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Vegane Mayonnaise",
+      "notes": "Für das Dressing: Mit "
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "Sojajoghurt (ungesüßt)",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "TL",
+      "ingredient": "Senf",
+      "notes": null
+    },
+    {
+      "quantity": 5,
+      "unit": "EL",
+      "ingredient": "Gurkenwasser (von Gewürzgurken)",
+      "notes": "verrühren."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Weißweinessig",
+      "notes": "Mit "
+    },
+    {
+      "quantity": 1,
+      "unit": "Spritzer",
+      "ingredient": "Agavendicksaft",
+      "notes": null
+    },
+    {
+      "quantity": 0.5,
+      "unit": null,
+      "ingredient": "Zitrone (Saft)",
+      "notes": "hinzufügen."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Salz",
+      "notes": "Mit "
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Reichlich Pfeffer",
+      "notes": "abschmecken"
+    },
+    {
+      "quantity": 1,
+      "unit": "Bund",
+      "ingredient": "Schnittlauch",
+      "notes": "fein hacken. Mit"
+    },
+    {
+      "quantity": 1,
+      "unit": "großes Bund",
+      "ingredient": "Glatte Petersilie",
+      "notes": "fein hacken."
+    },
+    {
+      "quantity": 1,
+      "unit": "rot",
+      "ingredient": "Zwiebel",
+      "notes": "in Würfel  geschnitten hinzufügen."
+    },
+    {
+      "quantity": 3,
+      "unit": null,
+      "ingredient": "Möhren",
+      "notes": "reiben."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "TK-Erbsen",
+      "notes": "Mit Gewürzgurken (in Scheiben) und geriebenen Möhren hinzufügen."
+    },
+    {
+      "quantity": 5,
+      "unit": null,
+      "ingredient": "Gewürzgurken",
+      "notes": "in Scheiben."
+    },
+    {
+      "quantity": 1,
+      "unit": "Block",
+      "ingredient": "Räuchertofu",
+      "notes": "Optional. In Würfel schneiden und in der Pfanne anbraten, bis es leicht knusprig ist."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Alle Zutaten (Kartoffeln, Dressing, Gemüse, Kräuter) in einer großen Schüssel vermischen."
+    }
+  ]
+}

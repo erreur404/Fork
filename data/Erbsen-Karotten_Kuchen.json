@@ -2,7 +2,7 @@
   "yield": 1,
   "yield.unit": "Kuchen",
   "title": "Erbsen-Karotten Kuchen",
-  "tags": ["kuchen", "salzigerkuchen", "vegetarisch", "snack"],
+  "tags": ["kuchen", "salzigerkuchen", "vegetarisch", "snack", "gesalzen"],
   "season": [4, 5, 6, 7, 8, 9],
   "source": "https://www.hervecuisine.com/recette/recette-cake-petits-pois-carottes-facile/",
   "steps": [
@@ -57,8 +57,8 @@
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Verschiedenes Gemüse (Erbsen, geschnittene Karotten, etc.)",
-      "notes": "Zum Teig hinzufügen."
+      "ingredient": "Verschiedenes Gemüse",
+      "notes": "(Erbsen, geschnittene Karotten, etc.). Zum Teig hinzufügen."
     },
     {
       "quantity": null,
