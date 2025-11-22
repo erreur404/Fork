@@ -1,0 +1,18 @@
+{
+  "yield": 1,
+  "yield.unit": "Kasten",
+  "title": "Bananen Brot",
+  "tags": ["dessert", "kuchen", "süß"],
+  "season": [1,2,3,4,5,6,7,8,9,10,11,12],
+  "source": "J'vais à la salle",
+  "steps": [
+    { "quantity": 100, "unit": "g", "ingredient": "Butter", "notes": null },
+    { "quantity": 100, "unit": "g", "ingredient": "Zucker", "notes": "cremig vermengen" },
+    { "quantity": 3, "unit": "", "ingredient": "Bananen", "notes": "(sehr reif) zerdrücken und unterrühren)"},
+    { "quantity": 200, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Backpulver", "notes": "vermischen und dazugeben" },
+    { "quantity": 100, "unit": "g", "ingredient": "Schokolade", "notes": "in stückchen dazugeben" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den teig in einem gefettete Kastenform geben" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "45 Minuten bei 180° backen." }
+  ]
+}
