@@ -1,0 +1,24 @@
+{
+  "yield": 1,
+  "yield.unit": "Kasten",
+  "title": "Pain d'épices (Gewürzbrot)",
+  "tags": ["kuchen", "süß", "weihnachten"],
+  "season": [9,10,11,12,1],
+  "source": "Handschriftlich (Constance)",
+  "steps": [
+    { "quantity": 250, "unit": "g", "ingredient": "Honig", "notes": "in einem Topf oder der Mikrowelle **erwärmen**" },
+    { "quantity": 250, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 100, "unit": "g", "ingredient": "Zucker", "notes": null },
+    { "quantity": 1, "unit": "Päckchen", "ingredient": "Backpulver", "notes": null },
+    { "quantity": 1, "unit": "Päckchen", "ingredient": "Vanillezucker", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Anis", "notes": "(grün)" },
+    { "quantity": 1, "unit": "TL", "ingredient": "Muskatnuss", "notes": "(gerieben)" },
+    { "quantity": 1, "unit": "TL", "ingredient": "Zimtpulver", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Ingwerpulver", "notes": null },
+    { "quantity": 1, "unit": "TL", "ingredient": "Vier-Gewürze-Mischung (Ingwer, Zimt, Nelke, Muskatnuss) | Lebkuchengewürz", "notes": "vermischen (Mehl, Puderzucker, Vanillezucker, Backpulver und alle Gewürze)" },
+    { "quantity": 2, "unit": "", "ingredient": "Eier", "notes": null },
+    { "quantity": 100, "unit": "mL", "ingredient": "Milch", "notes": "(lauwarm) nach und nach (zusammen mit den Eiern) einarbeiten. Dann den warmen Honig hinzufügen (und mit einem Holzlöffel verrühren)." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Ofen auf 160°C vorheizen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Teig in eine gefettete Kastenform geben und 1 Stunde bis 1 Stunde und 15 Minuten backen." }
+  ]
+}

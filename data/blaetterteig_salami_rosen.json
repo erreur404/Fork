@@ -1,0 +1,20 @@
+{
+  "yield": 6,
+  "yield.unit": "Portionen",
+  "title": "Blätterteig-Salami-Rosen",
+  "tags": ["snack", "fingerfood", "herzhaft"],
+  "season": [1,2,3,4,5,6,7,8,9,10,11,12],
+  "source": "https://www.chefkoch.de/rezepte/2829951434976283/Salami-Blaetterteigrosen.html",
+  "steps": [
+    { "quantity": 1, "unit": "Rolle(n)", "ingredient": "Blätterteig", "notes": "ausrollen und in 6 gleichmäßige, ca. 7 cm breite Streifen schneiden" },
+    { "quantity": 200, "unit": "g", "ingredient": "Salami", "notes": "in nicht zu dicke Scheiben schneiden und die Scheiben halbieren" },
+    { "quantity": 50, "unit": "mL", "ingredient": "Tomatenketchup", "notes": null },
+    { "quantity": 1.5, "unit": "TL", "ingredient": "Basilikum", "notes": "(getrocknet) mit dem Ketchup verrühren und dünn auf die Blätterteigstreifen streichen" },
+    { "quantity": null, "unit": null, "ingredient": "Käse", "notes": "(gerieben, wenig) auf die Salami streuen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die halben Salamischeiben überlappend auf eine Seite der Blätterteigstreifen legen, sodass sie mit der runden Seite ca. zu 1/4 über den Blätterteig herausragen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Blätterteigstreifen umklappen, so dass die Füllung vom Blätterteig umhüllt ist und nur noch das runde Viertel der Salamischeiben hervor schaut." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Streifen ganz eng aufrollen und in eine Muffinform stellen (am besten mit Papierförmchen)." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Backofen bei Umluft auf 160 °C vorheizen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Blätterteig-Salami-Rosen für ca. 45 Minuten backen." }
+  ]
+}
