@@ -1,0 +1,23 @@
+{
+    "yield": 1,
+    "yield.unit": "Auflaufform",
+    "title": "Gratin Dauphinois",
+    "tags": ["hauptgericht", "vegetarisch"],
+    "season": [1,2,3,4,5,6,7,8,9,10,11,12],
+    "source": "",
+    "steps": [
+        { "quantity": 1.5, "unit": "kg", "ingredient": "Kartoffeln", "notes": "Ungefähr so viel, wie Kartoffeln ins Form passen ohne sich zu berüren. Schälen und in dünne Scheiben schneiden." },
+        { "quantity": 5, "unit": null, "ingredient": "Schalotten", "notes": null },
+        { "quantity": 2, "unit": "", "ingredient": "Knoblauchzehen", "notes": "fein hacken" },
+        { "quantity": 250, "unit": "mL", "ingredient": "Sahne", "notes": null },
+        { "quantity": 200, "unit": "mL", "ingredient": "Milch", "notes": null },
+        { "quantity": 1, "unit": "", "ingredient": "Lorbeerblatt", "notes": null },
+        { "quantity": 3, "unit": "TL", "ingredient": "Thymian", "notes": null },
+        { "quantity": 3, "unit": "TL", "ingredient": "Senf", "notes": null },
+        { "quantity": 100, "unit": "g", "ingredient": "Gouda", "notes": "Alles in einen Topf geben bis es kocht." },
+        { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Ofen auf 190°C vorheizen." },
+        { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Kartoffeln in einen ofenfeste Form geben und flach aufteilen. Lorbeerblatt entfernen." },
+        { "quantity": null, "unit": null, "ingredient": null, "notes": "20 Minuten im Ofen backen mit eine Folie drauf." },
+        { "quantity": null, "unit": null, "ingredient": null, "notes": "20 Minuten backen ohne Folie." }
+    ]
+}
