@@ -1,0 +1,169 @@
+{
+  "yield": 6,
+  "yield.unit": "Personen",
+  "title": "Festlicher Nussbraten-Kranz",
+  "source": "https://www.gazoakleychef.com/recipes/festive-nut-roast-wreath/",
+  "tags": [
+    "hauptgericht",
+    "vegan",
+    "festlich",
+    "weihnachten"
+  ],
+  "season": [
+    11,
+    12,
+    1
+  ],
+  "steps": [
+    {
+      "quantity": 3,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "Ofen auf 180°C vorheizen. Öl in einem großen Topf bei mittlerer Hitze erhitzen."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Rote Zwiebel",
+      "notes": "fein gehackt. Zusammen mit Sellerie, Knoblauch, Lauch, Kürbis, Aubergine und Kastanien anbraten."
+    },
+    {
+      "quantity": 1,
+      "unit": "Stange",
+      "ingredient": "Staudensellerie",
+      "notes": "fein gehackt."
+    },
+    {
+      "quantity": 2,
+      "unit": "Zehen",
+      "ingredient": "Knoblauch",
+      "notes": "fein gehackt."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Lauch",
+      "notes": "gewaschen und fein gehackt."
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "Butternut-Kürbis",
+      "notes": "geschält und fein gewürfelt."
+    },
+    {
+      "quantity": 1,
+      "unit": "kleine",
+      "ingredient": "Aubergine",
+      "notes": "fein gewürfelt. Im Dezember habe ich keine Aubergine gefunden, deshalb habe ich sie durch 2 geriebene Möhren ersetzt."
+    },
+    {
+      "quantity": 60,
+      "unit": "g",
+      "ingredient": "Vorgegarte Kastanien (vakuumiert)",
+      "notes": "grob gehackt."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Piment (Allspice)",
+      "notes": "Gewürze, Kräuter, Salz, Pfeffer und Orangenschale nach einigen Minuten hinzufügen."
+    },
+    {
+      "quantity": 0.25,
+      "unit": "TL",
+      "ingredient": "Zimt (gemahlen)",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "Zweig",
+      "ingredient": "Frischer Rosmarin",
+      "notes": "fein gehackt."
+    },
+    {
+      "quantity": 10,
+      "unit": "Blätter",
+      "ingredient": "Frischer Salbei",
+      "notes": "fein gehackt."
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "ingredient": "Bio-Orange",
+      "notes": "Abrieb und Saft (Saft für später beiseitestellen)."
+    },
+    {
+      "quantity": 140,
+      "unit": "g",
+      "ingredient": "Gemischte Nüsse (Paranüsse, Pistazien, Walnüsse etc.)",
+      "notes": "Nüsse im Mixer zu groben Bröseln verarbeiten, während das Gemüse gart."
+    },
+    {
+      "quantity": 165,
+      "unit": "g",
+      "ingredient": "Gekochte Kichererbsen",
+      "notes": "Zu den Nüssen in den Mixer geben und kurz pulsieren, um sie leicht zu zerkleinern."
+    },
+    {
+      "quantity": 45,
+      "unit": "g",
+      "ingredient": "Paniermehl (ggf. glutenfrei)",
+      "notes": "Nuss-Kichererbsen-Mischung und Paniermehl in den Topf geben."
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Getrocknete Cranberries",
+      "notes": "grob gehackt. Mit Aprikosen und Tomaten in den Topf geben."
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Getrocknete Aprikosen",
+      "notes": "grob gehackt."
+    },
+    {
+      "quantity": 50,
+      "unit": "g",
+      "ingredient": "Sonnengereifte Tomaten (trocken)",
+      "notes": "grob gehackt."
+    },
+    {
+      "quantity": 3,
+      "unit": "EL",
+      "ingredient": "Balsamico-Essig",
+      "notes": "Zusammen mit Orangensaft, Miso, Hefeflocken und Marmite hinzufügen. 3-4 Min. unter Rühren garen."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Weiße Misopaste",
+      "notes": null
+    },
+    {
+      "quantity": 3,
+      "unit": "EL",
+      "ingredient": "Hefeflocken",
+      "notes": null
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Marmite (oder konzentrierte Gemüsebrühe)",
+      "notes": null
+    },
+    {
+      "quantity": 6,
+      "unit": "EL",
+      "ingredient": "Cranberry-Sauce",
+      "notes": "Boden einer eingefetteten Kranzform damit ausstreichen. Bratenmischung darauf verteilen und festdrücken."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Garnitur",
+      "notes": "Mit Alufolie abdecken und 30-35 Min. backen. Vor dem Stürzen leicht abkühlen lassen. Mit Pistazien, Rosmarin und getrockneten Orangenscheiben dekorieren."
+    }
+  ]
+}
