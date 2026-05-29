@@ -1,0 +1,65 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Rote-Bohnen-Hummus mit Mais",
+  "source": "https://deliacious.com/2020/02/houmous-de-haricots-rouges.html",
+  "tags": [
+    "vegan",
+    "Snack",
+    "Dip",
+    "herzhaft",
+    "mexikanisch inspiriert",
+    "schnell & einfach"
+  ],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "steps": [
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "gekochte rote Bohnen",
+      "notes": "Gut abspülen und abtropfen lassen."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Mais",
+      "notes": "Facultatif (optional). Zusammen mit den anderen Zutaten in den Mixer geben."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Tahini (Sesammus)",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Stück",
+      "ingredient": "Knoblauchzehe",
+      "notes": "Geschält hinzufügen."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Zitronensaft",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Kreuzkümmel (gemahlen)",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Prise",
+      "ingredient": "Salz",
+      "notes": "Alle Zutaten pürieren, bis eine cremige Konsistenz entsteht. Falls nötig, etwas Wasser hinzufügen. Mit einem Schuss Olivenöl servieren."
+    }
+  ]
+}

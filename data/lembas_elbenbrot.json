@@ -1,0 +1,65 @@
+{
+  "yield": 8,
+  "yield.unit": "Stück",
+  "title": "Lembas (Elbenbrot)",
+  "source": "https://www.planete-cuisine.com/112/recette-lembas",
+  "tags": [
+    "vegetarisch",
+    "Backen",
+    "süß",
+    "Snack",
+    "Fantasy-Küche",
+    "haltbar"
+  ],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "steps": [
+    {
+      "quantity": 60,
+      "unit": "g",
+      "ingredient": "halbgesalzene Butter",
+      "notes": "Zu Nussbutter (Beurre noisette) schmelzen, filtern und beiseitestellen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Stück",
+      "ingredient": "Ei",
+      "notes": "Mit dem braunen Zucker (Cassonade) in eine Schüssel geben und schaumig schlagen, bis die Mischung hell wird."
+    },
+    {
+      "quantity": 40,
+      "unit": "g",
+      "ingredient": "Brauner Zucker (Cassonade)",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 130,
+      "unit": "g",
+      "ingredient": "Weizenmehl",
+      "notes": "Zusammen mit dem Mandelmehl nach und nach mit einem Spatel unterrühren."
+    },
+    {
+      "quantity": 65,
+      "unit": "g",
+      "ingredient": "Mandelmehl (oder gemahlene Mandeln)",
+      "notes": "Hinzufügen."
+    },
+    {
+      "quantity": 40,
+      "unit": "g",
+      "ingredient": "Honig",
+      "notes": "Bei Bedarf leicht erwärmen, um ihn flüssig zu machen, mit der Vanille mischen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Vanille",
+      "notes": "Zum Honig geben, dann die Mischung in den Teig einarbeiten."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Zubereitung",
+      "notes": "Die Nussbutter unterrühren und den Teig leicht kneten. Auf 2 cm Dicke ausrollen und 1 Std. im Kühlschrank kühlen. Danach auf 1 cm Dicke ausrollen, 8 Quadrate (ca. 6 cm Seitenlänge) ausschneiden und mit dem Messerrücken kreuzweise einritzen. Bei 170°C ca. 10 Min. backen. Auf einem Gitter abkühlen lassen."
+    }
+  ]
+}

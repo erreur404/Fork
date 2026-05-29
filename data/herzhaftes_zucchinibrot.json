@@ -1,0 +1,83 @@
+{
+  "yield": 6,
+  "yield.unit": "Portionen",
+  "title": "Herzhaftes Zucchinibrot (Pain de Courgettes)",
+  "source": "http://www.jenreprendraibienunbout.com/2014/08/pain-de-courgettes.html",
+  "tags": [
+    "vegetarisch",
+    "Beilage",
+    "Vorspeise",
+    "herzhaft",
+    "Sommer",
+    "Backen"
+  ],
+  "season": [6, 7, 8, 9],
+  "steps": [
+    {
+      "quantity": 2,
+      "unit": "große Stück (ca. 800g)",
+      "ingredient": "Zucchini",
+      "notes": "Einige feine Scheiben abschneiden und gesalzen/gefeffert auf den Boden einer mit Backpapier ausgelegten Kastenform legen. Den Rest in ca. 2 cm große Würfel schneiden."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "In einer Pfanne erhitzen."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "Stück",
+      "ingredient": "weiße Zwiebel",
+      "notes": "Fein hacken und im heißen Öl einige Sekunden anschwitzen."
+    },
+    {
+      "quantity": 1,
+      "unit": "Zehe",
+      "ingredient": "Knoblauch",
+      "notes": "Geschält und gehackt mit den Zucchiniwürfeln, Salz, Pfeffer, einer Prise Piment d'Espelette und frischem Thymian in die Pfanne geben. Ca. 20 Minuten garen, bis die Zucchini weich sind. Danach 20 Minuten in einem Sieb abtropfen lassen."
+    },
+    {
+      "quantity": 6,
+      "unit": "g",
+      "ingredient": "Salz",
+      "notes": "Zum Würzen der Zucchini."
+    },
+    {
+      "quantity": 2,
+      "unit": "g",
+      "ingredient": "Pfeffer",
+      "notes": "Zum Würzen der Zucchini."
+    },
+    {
+      "quantity": 4,
+      "unit": "Stück",
+      "ingredient": "Eier",
+      "notes": "In einer Schüssel verquirlen."
+    },
+    {
+      "quantity": 20,
+      "unit": "cl",
+      "ingredient": "Sahne (flüssig, vollfett)",
+      "notes": "Mit den Eiern und der Chapelure (Paniermehl) verrühren."
+    },
+    {
+      "quantity": 40,
+      "unit": "g",
+      "ingredient": "Paniermehl (Chapelure)",
+      "notes": "Hinzufügen. Die abgekühlten und abgetropften Zucchini unter die Ei-Sahne-Masse heben."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "frischer Schnittlauch",
+      "notes": "Gehackt zusammen mit dem Petersilie zum Teig geben."
+    },
+    {
+      "quantity": 1,
+      "unit": "EL",
+      "ingredient": "frische Petersilie",
+      "notes": "Gehackt hinzufügen. Die Masse in die Kastenform füllen und bei 150°C bis 180°C ca. 55 Minuten backen. Lauwarm oder kalt servieren."
+    }
+  ]
+}
