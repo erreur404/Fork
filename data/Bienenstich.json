@@ -1,0 +1,138 @@
+{
+  "yield": 1,
+  "yield_unit": "Blech",
+  "title": "Bienenstich",
+  "tags": [
+    "dessert",
+    "süß",
+    "backen",
+    "kuchen",
+    "hefeteig",
+    "blech",
+    "torte"
+  ],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://www.einfachbacken.de/rezepte/bienenstich",
+  "steps": [
+    {
+        "quantity": 120,
+        "unit": "g",
+        "ingredient": "Butter",
+        "notes": null
+    },
+    {
+        "quantity": 300,
+        "unit": "ml",
+        "ingredient": "Milch",
+        "notes": "mit Butter in einem Topf erwärmen"
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "Prisen",
+      "ingredient": "Salz",
+      "notes": null
+    },
+    {
+      "quantity": 650,
+      "unit": "g",
+      "ingredient": "Weizenmehl (Type 405)",
+      "notes": "mit Zucker und Salz in einer Schüssel mischen"
+    },
+    {
+      "quantity": 1,
+      "unit": "Würfel",
+      "ingredient": "frische Hefe (ca. 21 g)",
+      "notes": "darüber bröckeln, lauwarme Milchmischung dazugeben, mit Knethaken mind. 5 Min. zu glattem Teig kneten, zugedeckt ca. 45 Min. ruhen lassen, in der Zwischenzeit Pudding für Füllung herstellen"
+    },
+    {
+      "quantity": 800,
+      "unit": "ml",
+      "ingredient": "Milch",
+      "notes": "in einem Topf aufkochen"
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "Pck.",
+      "ingredient": "Vanillepuddingpulver (ca. 37 g)",
+      "notes": "mit Zucker und 3-4 EL der Milch verrühren, zur Milch geben und unter Rühren aufkochen"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Pudding in Schüssel umfüllen, direkt mit Frischhaltefolie bedecken (gegen Haut), auskühlen lassen"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "etwas Butter",
+      "notes": "Blech einfetten"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Mehl",
+      "notes": "Backofen auf 180 °C Ober-/Unterhitze (Umluft: 160 °C) vorheizen, Hefeteig auf bemehlter Fläche durchkneten, in Form geben, zugedeckt weitere 15 Min. ruhen lassen"
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Sahne",
+      "notes": null
+    },
+    {
+      "quantity": 6,
+      "unit": "EL",
+      "ingredient": "Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Honig",
+      "notes": null
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Butter",
+      "notes": "mit Sahne, Zucker und Honig in einem Topf aufkochen, ca. 2 Min. bei niedriger Hitze einköcheln lassen"
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "gehobelte Mandeln",
+      "notes": "unterrühren, Masse esslöffelweise auf dem Hefeteig verteilen, mit Tortenheber gleichmäßig verstreichen, im vorgeheizten Ofen ca. 30 Min. backen, direkt nach dem Backen Springformrand lösen, komplett erkalten lassen"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Bienenstich waagerecht halbieren, Boden auf Tortenplatte setzen, Tortenring drumherum stellen"
+    },
+    {
+      "quantity": 500,
+      "unit": "g",
+      "ingredient": "Crème fraîche",
+      "notes": null
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Pudding kurz glatt rühren, Sahne unterheben, Creme auf dem Boden verstreichen, mind. 1 Std. kühl stellen, Deckel in 10-12 Stücke vorschneiden, kurz vor dem Servieren Deckel auflegen"
+    }
+  ]
+}
