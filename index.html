@@ -247,13 +247,22 @@
 
           // Load each recipe details and display the progress
           await Promise.all(filesPaths.map(async (path) => {
-            const res = await fetch(path);
-            const details = await res.json();
-            loadedCount++;
-            this.loadingProgressMessage = `Lade Rezepte... (${loadedCount} / ${totalCount})`;
-            this.loadingProgress = loadedCount / totalCount;
-            if (this.assertValidRecipe(details)) {
-              this.recipies.push({ path, ...details });
+            try {
+              const res = await fetch(path);
+              if (!res.ok) {
+                throw new Error(`HTTP ${res.status} ${res.statusText}`);
+              }
+
+              const details = await res.json();
+              if (this.assertValidRecipe(details)) {
+                this.recipies.push({ path, ...details });
+              }
+            } catch (err) {
+              console.error(`Failed loading recipe '${path}':`, err);
+            } finally {
+              loadedCount++;
+              this.loadingProgressMessage = `Lade Rezepte... (${loadedCount} / ${totalCount})`;
+              this.loadingProgress = loadedCount / totalCount;
             }
           }));
 
