@@ -15,6 +15,6 @@
     { "quantity": 125, "unit": "g", "ingredient": "vegane Butter", "notes": null },
     { "quantity": 2, "unit": "EL", "ingredient": "Apfelmus", "notes": "alles miteinander vermengen" },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "Backofen auf 180 °C Umluft vorheizen. Aus dem Teig 18 Kugeln à 40 g formen und auf zwei Backblechen mit Abstand verteilen." },
-    { "quantity": null, "unit": null, "ingredient": null, "notes": "12 Minuten backen. Kekse sollten beim Herausnehmen noch sehr weich sein. Nach Wunsch mit Pfannenwender etwas plattdrücken." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "12 Minuten backen. Kekse sollten beim Herausnehmen noch sehr weich sein. Nach Wunsch mit Pfannenwender etwas plattdrücken." }
   ]
 }
