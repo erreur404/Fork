@@ -1,0 +1,82 @@
+{
+  "yield": null,
+  "yield.unit": null,
+  "title": "Walnusskuchen (von 1929)",
+  "source": "Historisches Rezept (1929)",
+  "tags": [
+    "kuchen",
+    "walnuss",
+    "historisch",
+    "gepäck"
+  ],
+  "season": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "steps": [
+    {
+      "quantity": 250,
+      "unit": "g",
+      "ingredient": "Mehl",
+      "notes": "Mit Butter, Zucker und den vorbereiteten Walnüssen vermengen."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Butter",
+      "notes": null
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Zucker",
+      "notes": null
+    },
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "Walnüsse",
+      "notes": "Vorab mit einem Deziliter Milch zerstoßen."
+    },
+    {
+      "quantity": 1,
+      "unit": "dl",
+      "ingredient": "Milch",
+      "notes": "Zum Zerstoßen der Nüsse verwenden."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Teig ruhen lassen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Den Teig mit einem Nudelholz ausrollen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "In kleine dreieckige Stücke schneiden."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": null,
+      "notes": "Bei mittlerer Hitze im Ofen backen."
+    }
+  ]
+}
