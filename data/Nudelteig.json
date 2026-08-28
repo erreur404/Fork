@@ -1,0 +1,18 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Veganer Spaghetti-Nudelteig aus der Nudelmaschine",
+  "tags": ["vegan", "nudeln", "pasta", "grundrezept", "nudelmaschine"],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "source": "https://lidl.de",
+  "steps": [
+    { "quantity": 300, "unit": "g", "ingredient": "Weizenmehl (Type 405)", "notes": "auf eine saubere Arbeitsfläche häufen und in die Mitte eine tiefe Mulde drücken" },
+    { "quantity": 1, "unit": "TL", "ingredient": "Salz", "notes": "zusammen mit dem Wasser in die Mehlmulde geben" },
+    { "quantity": 150, "unit": "ml", "ingredient": "lauwarmes Wasser", "notes": null },
+    { "quantity": 1, "unit": "EL", "ingredient": "Olivenöl", "notes": "optional für eine bessere Elastizität hinzufügen; alle Zutaten von innen nach außen vermengen und 8-10 Minuten zu einem glatten, elastischen Teig kneten" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Teig zu einer Kugel formen, luftdicht in Frischhaltefolie einwickeln und 30 Minuten bei Raumtemperatur ruhen lassen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den geruhten Pastateig mit einem Messer in vier gleich große Teile schneiden" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Nudelmaschine an der Arbeitsplatte fixieren und die Walzen leicht mit Mehl bestäuben" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Die Spaghetti in einem großen Topf mit reichlich kochendem Salzwasser für 2-3 Minuten garen, bis sie an die Oberfläche steigen, dann direkt mit der Sauce mischen" }
+  ]
+}
