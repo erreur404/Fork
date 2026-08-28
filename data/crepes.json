@@ -1,0 +1,19 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Crêpes",
+  "tags": ["süß", "vegetarisch"],
+  "season": [1,2,3,4,5,6,7,8,9,10,11,12],
+  "source": "https://cuisine.journaldesfemmes.fr/recette/333415-recette-de-crepes-la-meilleure-recette-rapide",
+  "steps": [
+    { "quantity": 250, "unit": "g", "ingredient": "Mehl", "notes": null },
+    { "quantity": 1, "unit": "EL", "ingredient": "Zucker", "notes": "(optional) dazugeben" },
+    { "quantity": 1, "unit": "Prise", "ingredient": "Salz", "notes": "in einer Schüssel vermengen" },
+    { "quantity": 3, "unit": "", "ingredient": "Eier", "notes": "dazugeben und verrühren" },
+    { "quantity": 500, "unit": "mL", "ingredient": "Milch", "notes": "nach und nach dazugeben und glatt rühren" },
+    { "quantity": 50, "unit": "g", "ingredient": "Butter", "notes": "(geschmolzen) unterrühren" },
+    { "quantity": 1, "unit": "EL", "ingredient": "Rum", "notes": "(optional) dazugeben" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Teig 30 Minuten ruhen lassen." },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "In einer heißen, leicht gefetteten Pfanne dünn ausbacken, bis beide Seiten goldbraun sind." }
+  ]
+}

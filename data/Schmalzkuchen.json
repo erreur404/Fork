@@ -1,0 +1,24 @@
+{
+  "yield": 35,
+  "yield.unit": "Stücke",
+  "title": "Schmalzkuchen",
+  "tags": ["süß", "weihnachten", "fingerfood", "frittieren"],
+  "season": [11, 12, 1],
+  "source": "https://www.einfachbacken.de/rezepte/schmalzkuchen-wie-vom-weihnachtsmarkt",
+  "steps": [
+    { "quantity": 120, "unit": "ml", "ingredient": "Milch", "notes": null },
+    { "quantity": 30, "unit": "g", "ingredient": "Butter", "notes": "in einem Topf lauwarm erhitzen und beiseite stellen" },
+    { "quantity": 350, "unit": "g", "ingredient": "Weizenmehl (Type 405)", "notes": null },
+    { "quantity": 50, "unit": "g", "ingredient": "Zucker", "notes": null },
+    { "quantity": 1, "unit": "Pck.", "ingredient": "Vanillezucker", "notes": null },
+    { "quantity": 1, "unit": "Prise", "ingredient": "Salz", "notes": "in einer Schüssel mischen" },
+    { "quantity": 0.5, "unit": "Würfel", "ingredient": "Hefe", "notes": "(21 g oder 1 Pck. Trockenhefe) darüber bröckeln" },
+    { "quantity": 1, "unit": "", "ingredient": "Ei (Gr. M)", "notes": null },
+    { "quantity": 1, "unit": "", "ingredient": "Eigelb (Gr. M)", "notes": "zusammen mit dem warmen Milch-Mix zugeben und mit den Knethaken 3 Minuten zu einem glatten Teig kneten, abgedeckt 45 Minuten ruhen lassen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Etwas Mehl zum Arbeiten" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Den aufgegangenen Teig auf einer leicht bemehlten Arbeitsfläche ca. 5 mm dünn ausrollen und mit einem Messer 3-4 cm große Rauten schneiden" },
+    { "quantity": 750, "unit": "ml", "ingredient": "neutrales Speiseöl oder Butterschmalz zum Frittieren", "notes": null },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Öl in einem Topf erhitzen und die Rauten bei mittlerer Hitze von beiden Seiten 1-2 Minuten goldbraun backen, auf Küchenpapier abtropfen lassen" },
+    { "quantity": null, "unit": null, "ingredient": null, "notes": "Im warmen Zustand mit etwas Puderzucker bestreuen und servieren" }
+  ]
+}
