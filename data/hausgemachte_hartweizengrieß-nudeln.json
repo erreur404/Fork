@@ -1,0 +1,73 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Hausgemachte Hartweizengrieß-Nudeln",
+  "source": "Eingegebener Text",
+  "tags": [
+    "vegetarisch",
+    "Grundrezept",
+    "Pasta",
+    "Hauptspeise",
+    "Beilage",
+    "schnell & einfach",
+    "italienisch",
+    "traditionell"
+  ],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "steps": [
+    {
+      "quantity": 100,
+      "unit": "g",
+      "ingredient": "feiner Hartweizengrieß",
+      "notes": "Mit dem Mehl auf einer sauberen Arbeitsfläche oder in einer großen Schüssel mischen und eine breite Mulde in der Mitte formen."
+    },
+    {
+      "quantity": 200,
+      "unit": "g",
+      "ingredient": "Weizenmehl (vorzugsweise Type 00 oder T45)",
+      "notes": "Hinzufügen. Das Verhältnis von 100g Trockenmasse zu 1 Ei (50-55g ohne Schale) ist die goldene Regel für die perfekte Konsistenz."
+    },
+    {
+      "quantity": 3,
+      "unit": "Stück",
+      "ingredient": "Eier",
+      "notes": "Entspricht 150g bis 165g ohne Schale gewogen. In die Mulde geben, mit einer Gabel leicht verquirlen und nach und nach das Mehl/den Grieß von den Rändern einarbeiten, bis ein Teig entsteht."
+    },
+    {
+      "quantity": 30,
+      "unit": "g",
+      "ingredient": "Weizenmehl (zusätzlich zum Anpassen)",
+      "notes": "Hinzuheben, falls der Teig an den Händen klebt. Sollte er zu trocken sein, die Hände einfach mit Wasser befeuchten."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Kneten",
+      "notes": "Den Teigballen mit dem Handballen kräftig nach vorne drücken, zusammenfalten, um eine Vierteldrehung drehen und wiederholen. 5 Minuten kräftig kneten, bis der Teig glatt und elastisch ist."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Ruhen lassen",
+      "notes": "Den Teig luftdicht in Frischhaltefolie oder ein feuchtes Tuch wickeln. Mindestens 30 Minuten bei Raumtemperatur ruhen lassen, damit sich das Gluten entspannt und der Teig sich später nicht zusammenzieht."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Formen",
+      "notes": "Teig in 4 gleiche Teile schneiden (Restliche Teile unter Folie lagern). Entweder mit dem Nudelholz von der Mitte nach außen hauchdünn ausrollen oder mit der Nudelmaschine schrittweise von der größten Öffnung bis zur vorletzten Stufe walzen."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Schneiden",
+      "notes": "Teigbahnen großzügig bemehlen. Entweder locker aufrollen und mit einem scharfen Messer in Streifen schneiden (schmal für Tagliolini, breiter für Tagliatellen) und sofort entrollen, oder den Schneidaufsatz der Nudelmaschine nutzen."
+    },
+    {
+      "quantity": 10,
+      "unit": "g",
+      "ingredient": "Salz (pro Liter Wasser)",
+      "notes": "Zum Kochen. Die frischen Nudeln in reichlich kochendem Salzwasser 2 bis 3 Minuten garen. Sobald sie an die Oberfläche steigen, sind sie al dente und müssen sofort abgegossen werden."
+    }
+  ]
+}

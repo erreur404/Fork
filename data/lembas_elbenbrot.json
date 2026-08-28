@@ -5,10 +5,10 @@
   "source": "https://www.planete-cuisine.com/112/recette-lembas",
   "tags": [
     "vegetarisch",
-    "Backen",
+    "backen",
     "süß",
     "Snack",
-    "Fantasy-Küche",
+    "fantasy-Küche",
     "haltbar"
   ],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
@@ -16,7 +16,7 @@
     {
       "quantity": 60,
       "unit": "g",
-      "ingredient": "halbgesalzene Butter",
+      "ingredient": "Butter, halbgesalzene",
       "notes": "Zu Nussbutter (Beurre noisette) schmelzen, filtern und beiseitestellen."
     },
     {
@@ -28,7 +28,7 @@
     {
       "quantity": 40,
       "unit": "g",
-      "ingredient": "Brauner Zucker (Cassonade)",
+      "ingredient": "Zucker, Brauner (Cassonade)",
       "notes": "Hinzufügen."
     },
     {

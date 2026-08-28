@@ -5,11 +5,11 @@
   "source": "http://www.jenreprendraibienunbout.com/2014/08/pain-de-courgettes.html",
   "tags": [
     "vegetarisch",
-    "Beilage",
-    "Vorspeise",
+    "beilage",
+    "vorspeise",
     "herzhaft",
-    "Sommer",
-    "Backen"
+    "sommer",
+    "backen"
   ],
   "season": [6, 7, 8, 9],
   "steps": [
@@ -28,7 +28,7 @@
     {
       "quantity": 0.5,
       "unit": "Stück",
-      "ingredient": "weiße Zwiebel",
+      "ingredient": "Zwiebel, weiße",
       "notes": "Fein hacken und im heißen Öl einige Sekunden anschwitzen."
     },
     {
@@ -70,13 +70,13 @@
     {
       "quantity": 2,
       "unit": "EL",
-      "ingredient": "frischer Schnittlauch",
+      "ingredient": "Schnittlauch, frischer",
       "notes": "Gehackt zusammen mit dem Petersilie zum Teig geben."
     },
     {
       "quantity": 1,
       "unit": "EL",
-      "ingredient": "frische Petersilie",
+      "ingredient": "Petersilie, frische",
       "notes": "Gehackt hinzufügen. Die Masse in die Kastenform füllen und bei 150°C bis 180°C ca. 55 Minuten backen. Lauwarm oder kalt servieren."
     }
   ]

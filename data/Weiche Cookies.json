@@ -12,7 +12,7 @@
     { "quantity": 8, "unit": "g", "ingredient": "Vanillezucker", "notes": null },
     { "quantity": 150, "unit": "g", "ingredient": "Schokolade (kleine stücke)", "notes": null },
     { "quantity": 5, "unit": "g", "ingredient": "Backpulver", "notes": "Zusammen mischen. Für eine Vorratsglas here halten." },
-    { "quantity": 125, "unit": "g", "ingredient": "vegane Butter", "notes": null },
+    { "quantity": 125, "unit": "g", "ingredient": "Butter, vegane", "notes": null },
     { "quantity": 2, "unit": "EL", "ingredient": "Apfelmus", "notes": "alles miteinander vermengen" },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "Backofen auf 180 °C Umluft vorheizen. Aus dem Teig 18 Kugeln à 40 g formen und auf zwei Backblechen mit Abstand verteilen." },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "12 Minuten backen. Kekse sollten beim Herausnehmen noch sehr weich sein. Nach Wunsch mit Pfannenwender etwas plattdrücken." }

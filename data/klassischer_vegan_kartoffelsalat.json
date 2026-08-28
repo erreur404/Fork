@@ -6,7 +6,7 @@
   "tags": [
     "salat",
     "deutsch",
-    "vegan","vegetarisch", "gesalzen",
+    "vegan", "vegetarisch", "gesalzen",
     "beilage"
   ],
   "season": [
@@ -27,13 +27,13 @@
     {
       "quantity": 2.5,
       "unit": "kg",
-      "ingredient": "Festkochende Kartoffeln",
+      "ingredient": "Kartoffeln, Festkochende",
       "notes": "in Würfel schneiden. Die Kartoffelwürfel werden knusprig gebacken und saugen das Dressing perfekt auf (Geheimwaffe)."
     },
     {
       "quantity": 250,
       "unit": "g",
-      "ingredient": "Vegane Mayonnaise",
+      "ingredient": "Mayonnaise, Vegane",
       "notes": "Für das Dressing: Mit "
     },
     {
