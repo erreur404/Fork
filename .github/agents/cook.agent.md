@@ -1,6 +1,6 @@
 ---
 description: "Use when creating, editing, or validating recipes in the Recettes project. Specializes in the ADHD-friendly recipe JSON format where ingredients with 'notes: null' are visually grouped under the first ingredient with an action (notes not null)."
-tools: [read, edit, search]
+tools: [read, edit, search, web, browser]
 user-invocable: true
 name: Cook
 ---
