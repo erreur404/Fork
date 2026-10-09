@@ -6,7 +6,7 @@
   "season": [1,2,3,4,5,6,7,8,9,10,11,12],
   "source": "Julius",
   "steps": [
-    { "quantity": 400, "unit": "g", "ingredient": "Schokolade, Zartbitter", "notes": "im Wasserbad schmelzen" },
+    { "quantity": 400, "unit": "g", "ingredient": "Zartbitter schokolade", "notes": "im Wasserbad schmelzen" },
     { "quantity": 8, "unit": "", "ingredient": "Eier", "notes": "schaumig rühren" },
     { "quantity": 400, "unit": "g", "ingredient": "Zucker", "notes": "dazugeben"},
     { "quantity": 340, "unit": "mL", "ingredient": "Öl", "notes": "und Schokolade dazugeben" },

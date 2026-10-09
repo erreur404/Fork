@@ -4,7 +4,7 @@
   "title": "Weiche Cookies",
   "tags": ["vegan", "kekse", "süß", "dessert"],
   "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-  "source": "Zucker und Jagdwurst",
+  "source": "https://www.zuckerjagdwurst.com/de/rezepte/vegane-weiche-chocolate-chip-cookies",
   "steps": [
     { "quantity": 200, "unit": "g", "ingredient": "Weizenmehl (Type 405) oder Dinkelmehl (Type 630)", "notes": null },
     { "quantity": 90, "unit": "g", "ingredient": "Zucker", "notes": null },

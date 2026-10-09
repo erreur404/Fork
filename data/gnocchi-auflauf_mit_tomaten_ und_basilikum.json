@@ -1,0 +1,53 @@
+{
+  "yield": 6,
+  "yield.unit": "Portionen",
+  "title": "Gnocchi-Auflauf mit Tomaten und Basilikum",
+  "source": "https://www.cuisineaz.com/recettes/gratin-de-gnocchis-tomate-et-basilic-79960.aspx",
+  "tags": [
+    "vegetarisch",
+    "auflauf",
+    "pasta",
+    "herzhaft",
+    "mediterran",
+    "schnell & einfach"
+  ],
+  "season": [6, 7, 8, 9],
+  "steps": [
+    {
+      "quantity": 800,
+      "unit": "g",
+      "ingredient": "Gnocchi",
+      "notes": "Den Backofen auf 220 °C vorheizen. Die Gnocchi 1 Minute in einem Topf mit kochendem Wasser garen, abgießen und in eine gefettete Auflaufform geben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Butter",
+      "notes": "Zum Einfetten der Auflaufform verwenden."
+    },
+    {
+      "quantity": 1,
+      "unit": "Dose",
+      "ingredient": "Tomaten, Geschälte",
+      "notes": "Klein schneiden und über die Gnocchi geben."
+    },
+    {
+      "quantity": 150,
+      "unit": "g",
+      "ingredient": "Gruyère; Geriebener",
+      "notes": "Über die Gnocchi und Tomaten streuen."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Basilikum",
+      "notes": "Fein hacken und über den Auflauf geben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Salz und Pfeffer",
+      "notes": "Nach Geschmack würzen. Für 15 Minuten in den Ofen schieben, bis der Auflauf leicht goldbraun überbacken ist."
+    }
+  ]
+}

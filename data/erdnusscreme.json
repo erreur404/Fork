@@ -1,0 +1,47 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Erdnusscreme",
+  "source": "mangoandsalt",
+  "tags": [
+    "vegan",
+    "vegetarisch",
+    "snack",
+    "süß",
+    "cremig",
+    "schnell & einfach"
+  ],
+  "season": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "steps": [
+    {
+      "quantity": 400,
+      "unit": "g",
+      "ingredient": "Seidentofu",
+      "notes": "In den Mixer geben. Vorzugsweise japanischen oder festeren Seidentofu verwenden."
+    },
+    {
+      "quantity": 120,
+      "unit": "g",
+      "ingredient": "Erdnussmus",
+      "notes": "Naturbelassen, in den Mixer dazugeben."
+    },
+    {
+      "quantity": 40,
+      "unit": "ml",
+      "ingredient": "Ahornsirup oder Agavendicksaft",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Vanille, flüssige",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Salz",
+      "notes": "Eine mini Prise dazugeben. Alles im Standmixer cremig pürieren. In 4 kleine Gläser aufteilen und mindestens 15 Minuten kalt stellen."
+    }
+  ]
+}

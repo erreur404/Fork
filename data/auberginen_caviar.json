@@ -1,0 +1,78 @@
+{
+  "yield": 4,
+  "yield.unit": "Portionen",
+  "title": "Auberginen-Caviar mit Tahin (Baba Ganoush)",
+  "source": "https://freethepickle.fr/2023/08/18/caviar-daubergine-au-tahini-baba-ganoush/",
+  "tags": [
+    "vegan",
+    "vegetarisch",
+    "snack",
+    "cremig",
+    "herzhaft",
+    "mediterran",
+    "schnell & einfach"
+  ],
+  "season": [6, 7, 8, 9, 10],
+  "steps": [
+    {
+      "quantity": 650,
+      "unit": "g",
+      "ingredient": "Auberginen",
+      "notes": "Den Backofen auf 200 °C vorheizen. Die 2 Auberginen waschen, die Haut mit einer Gabel einstechen und auf einem Backblech für 50 Minuten rösten (optional am Ende kurz die Grillfunktion einschalten, um die Haut leicht anzurösten). Nach dem Abkühlen die Haut abziehen und das Fruchtfleisch in den Mixer geben."
+    },
+    {
+      "quantity": 1,
+      "unit": "Stück",
+      "ingredient": "Lauchzwiebel",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 2,
+      "unit": "Stück",
+      "ingredient": "Knoblauchzehen",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 2,
+      "unit": "EL",
+      "ingredient": "Zitronensaft",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 4,
+      "unit": "EL",
+      "ingredient": "Olivenöl",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 3,
+      "unit": "EL",
+      "ingredient": "Tahin (Sesampaste)",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 1,
+      "unit": "TL",
+      "ingredient": "Kreuzkümmel",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": 0.5,
+      "unit": "TL",
+      "ingredient": "Paprikapulver, geräuchertes",
+      "notes": "In den Mixer dazugeben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Petersilie, frische",
+      "notes": "Ein Bund fein gehackt dazugeben."
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Salz",
+      "notes": "Nach Geschmack dazugeben. Alle Zutaten im Mixer pürieren, bis eine glatte, leicht schaumige Textur entsteht. Vor dem Servieren mindestens 1 Stunde kühl stellen."
+    }
+  ]
+}
