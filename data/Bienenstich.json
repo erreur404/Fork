@@ -46,8 +46,8 @@
     },
     {
       "quantity": 1,
-      "unit": "Würfel",
-      "ingredient": "frische Hefe (ca. 21 g)",
+      "unit": "Würfel  (ca. 21 g)",
+      "ingredient": "Hefe, frische",
       "notes": "darüber bröckeln, lauwarme Milchmischung dazugeben, mit Knethaken mind. 5 Min. zu glattem Teig kneten, zugedeckt ca. 45 Min. ruhen lassen, in der Zwischenzeit Pudding für Füllung herstellen"
     },
     {
@@ -75,9 +75,9 @@
       "notes": "Pudding in Schüssel umfüllen, direkt mit Frischhaltefolie bedecken (gegen Haut), auskühlen lassen"
     },
     {
-      "quantity": null,
+      "quantity": "etwas",
       "unit": null,
-      "ingredient": "etwas Butter",
+      "ingredient": "Butter",
       "notes": "Blech einfetten"
     },
     {
@@ -113,7 +113,7 @@
     {
       "quantity": 200,
       "unit": "g",
-      "ingredient": "gehobelte Mandeln",
+      "ingredient": "Mandeln, gehobelte",
       "notes": "unterrühren, Masse esslöffelweise auf dem Hefeteig verteilen, mit Tortenheber gleichmäßig verstreichen, im vorgeheizten Ofen ca. 30 Min. backen, direkt nach dem Backen Springformrand lösen, komplett erkalten lassen"
     },
     {

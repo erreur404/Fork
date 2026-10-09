@@ -13,7 +13,7 @@
     { "quantity": 1, "unit": "Päckchen", "ingredient": "Vanillezucker", "notes": null },
     { "quantity": 1, "unit": "TL", "ingredient": "Natron", "notes": null },
     { "quantity": 0.5, "unit": "TL", "ingredient": "Salz", "notes": "dazugeben und mit einem Schneebesen verrühren" },
-    { "quantity": 240, "unit": "ml", "ingredient": "warmes Wasser", "notes": null },
+    { "quantity": 240, "unit": "ml", "ingredient": "Wasser, warmes", "notes": null },
     { "quantity": 80, "unit": "ml", "ingredient": "Rapsöl", "notes": null },
     { "quantity": 1, "unit": "TL", "ingredient": "Apfelessig", "notes": "dazugeben und verrühren." },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "In eine gefettete Backform geben und je nach Höhe der Form 35-55 Minuten backen (Stäbchenprobe machen). Bei Muffinförmchen ca. 25 Minuten backen. Auskühlen lassen." },

@@ -6,7 +6,7 @@
   "season": [6, 7, 8],
   "source": null,
   "steps": [
-    { "quantity": 300, "unit": "g", "ingredient": "Frische Beeren", "notes": "waschen und fein pürieren (Tiefkühlfrüchte erst aufkochen)" },
+    { "quantity": 300, "unit": "g", "ingredient": "Beeren, Frische", "notes": "waschen und fein pürieren (Tiefkühlfrüchte erst aufkochen)" },
     { "quantity": 50, "unit": "g", "ingredient": "Zucker", "notes": "dazugeben und nochmal pürieren" },
     { "quantity": 100, "unit": "g", "ingredient": "Schmand", "notes": "Unterrühren"},
     { "quantity": null, "unit": null, "ingredient": null, "notes": "Stunden einfrieren lassen" },

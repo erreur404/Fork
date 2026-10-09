@@ -8,7 +8,7 @@
   "steps": [
     { "quantity": 300, "unit": "g", "ingredient": "Weizenmehl (Type 405)", "notes": "auf eine saubere Arbeitsfläche häufen und in die Mitte eine tiefe Mulde drücken" },
     { "quantity": 1, "unit": "TL", "ingredient": "Salz", "notes": "zusammen mit dem Wasser in die Mehlmulde geben" },
-    { "quantity": 150, "unit": "ml", "ingredient": "lauwarmes Wasser", "notes": null },
+    { "quantity": 150, "unit": "ml", "ingredient": "Wasser, lauwarmes", "notes": null },
     { "quantity": 1, "unit": "EL", "ingredient": "Olivenöl", "notes": "optional für eine bessere Elastizität hinzufügen; alle Zutaten von innen nach außen vermengen und 8-10 Minuten zu einem glatten, elastischen Teig kneten" },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "Den Teig zu einer Kugel formen, luftdicht in Frischhaltefolie einwickeln und 30 Minuten bei Raumtemperatur ruhen lassen" },
     { "quantity": null, "unit": null, "ingredient": null, "notes": "Den geruhten Pastateig mit einem Messer in vier gleich große Teile schneiden" },

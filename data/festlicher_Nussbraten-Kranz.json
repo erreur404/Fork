@@ -78,31 +78,31 @@
     {
       "quantity": 1,
       "unit": "Zweig",
-      "ingredient": "Frischer Rosmarin",
+      "ingredient": "Rosmarin, frischer",
       "notes": "fein gehackt."
     },
     {
       "quantity": 10,
       "unit": "Blätter",
-      "ingredient": "Frischer Salbei",
+      "ingredient": "Salbei, frischer",
       "notes": "fein gehackt."
     },
     {
       "quantity": 1,
       "unit": null,
-      "ingredient": "Bio-Orange",
+      "ingredient": "Orange, Bio",
       "notes": "Abrieb und Saft (Saft für später beiseitestellen)."
     },
     {
       "quantity": 140,
       "unit": "g",
-      "ingredient": "Gemischte Nüsse (Paranüsse, Pistazien, Walnüsse etc.)",
+      "ingredient": "Nüsse, Gemischte (Paranüsse, Pistazien, Walnüsse etc.)",
       "notes": "Nüsse im Mixer zu groben Bröseln verarbeiten, während das Gemüse gart."
     },
     {
       "quantity": 165,
       "unit": "g",
-      "ingredient": "Gekochte Kichererbsen",
+      "ingredient": "Kichererbsen, gekocht",
       "notes": "Zu den Nüssen in den Mixer geben und kurz pulsieren, um sie leicht zu zerkleinern."
     },
     {
@@ -114,13 +114,13 @@
     {
       "quantity": 50,
       "unit": "g",
-      "ingredient": "Getrocknete Cranberries",
+      "ingredient": "Cranberries, Getrocknete",
       "notes": "grob gehackt. Mit Aprikosen und Tomaten in den Topf geben."
     },
     {
       "quantity": 50,
       "unit": "g",
-      "ingredient": "Getrocknete Aprikosen",
+      "ingredient": "Aprikosen, Getrocknete",
       "notes": "grob gehackt."
     },
     {
@@ -138,7 +138,7 @@
     {
       "quantity": 1,
       "unit": "EL",
-      "ingredient": "Weiße Misopaste",
+      "ingredient": "Misopaste, Weiße",
       "notes": null
     },
     {
